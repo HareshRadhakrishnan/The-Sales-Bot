@@ -1,0 +1,1939 @@
+Processing row : 1Processing row : 2Processing row : 1Processing row : 2Processing row : 3for +94706932456 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 4for +94705059832 Message Failed Due to Message: 
+Processing row : 5Processing row : 6Processing row : 7Processing row : 8Processing row : 9Processing row : 10for +94https://www.youtube.com/watch?v=VexNBOvyEf8 Message Failed Due to Message: 
+Processing row : 11Processing row : 12for +94713261407 Message Failed Due to Message: 
+Processing row : 13Processing row : 14for +94771365170 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 15Processing row : 16Processing row : 17Processing row : 18Processing row : 19for +94705059832 Message Failed Due to Message: 
+Processing row : 20Processing row : 21for +94711854256 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 22Processing row : 23Processing row : 24Processing row : 25Processing row : 26for +94781289726 Message Failed Due to Message: 
+Processing row : 27Processing row : 28Processing row : 29for +94723400064 Message Failed Due to Message: 
+Processing row : 30Processing row : 31for +94754000774 Message Failed Due to Message: 
+Processing row : 32Processing row : 33for +94770092447 Message Failed Due to Message: 
+Processing row : 34Processing row : 35for +94113442459 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 36Processing row : 37Processing row : 38Processing row : 39Processing row : 40Processing row : 41Processing row : 42Processing row : 43Processing row : 44for +94706932456 Message Failed Due to Message: 
+Processing row : 45for +94[] Message Failed Due to Message: 
+Processing row : 46for +94[] Message Failed Due to Message: 
+Processing row : 47Processing row : 48for +94112705395 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 49Processing row : 50for +94775419815 Message Failed Due to Message: 
+Processing row : 51Processing row : 52Processing row : 53Processing row : 54for +94719987241 Message Failed Due to Message: 
+Processing row : 55Processing row : 56for +94768004120 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 57Processing row : 58Processing row : 59Processing row : 60Processing row : 61for +94754701420 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 62for +94740066061 Message Failed Due to Message: 
+Processing row : 63Processing row : 64for +94775645044 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 65for +94[] Message Failed Due to Message: 
+Processing row : 66Processing row : 67for +94[] Message Failed Due to Message: 
+Processing row : 68Processing row : 69for +94779838299 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 70Processing row : 71for +94718942623 Message Failed Due to Message: 
+Processing row : 72Processing row : 73Processing row : 74Processing row : 75for +94771277740 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 76for +94812499867 Message Failed Due to Message: 
+Processing row : 77for +94[] Message Failed Due to Message: 
+Processing row : 78for +94[] Message Failed Due to Message: 
+Processing row : 79for +94704944647 Message Failed Due to Message: 
+Processing row : 80Processing row : 81Processing row : 82Processing row : 83for +94761882344 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 84Processing row : 85Processing row : 86Processing row : 87Processing row : 88Processing row : 89Processing row : 90for +94717468727 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 91Processing row : 92for +94716470031 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 93for +94711430723 Message Failed Due to Message: 
+Processing row : 94Processing row : 95for +94769778636 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 96Processing row : 97for +94773030955 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 98Processing row : 99Processing row : 100Processing row : 101for +94777375199 Message Failed Due to Message: 
+Processing row : 102Processing row : 103Processing row : 104Processing row : 105Processing row : 106for +94705953574 Message Failed Due to Message: 
+Processing row : 107for +94715709797 Message Failed Due to Message: 
+Processing row : 108Processing row : 109for +94714473722 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 110for +94702519243 Message Failed Due to Message: 
+Processing row : 111for +94762126251 Message Failed Due to Message: 
+Processing row : 112for +94719590268 Message Failed Due to Message: 
+Processing row : 113for +94362234680 Message Failed Due to Message: 
+Processing row : 114for +94771819590 Message Failed Due to Message: 
+Processing row : 115Processing row : 116Processing row : 117Processing row : 118Processing row : 119for +94776323912 Message Failed Due to Message: 
+Processing row : 120Processing row : 121for +94705853585 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 122Processing row : 123for +94https://ganansir.blogspot.com/ Message Failed Due to Message: 
+Processing row : 124Processing row : 125for +94759298142 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 126Processing row : 127Processing row : 128Processing row : 129for +94710189179 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 130Processing row : 131for +94776766491 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 132Processing row : 133Processing row : 134Processing row : 135Processing row : 136for +94[] Message Failed Due to Message: 
+Processing row : 137for +94https://www.facebook.com/profile.php?id=100068695930746 Message Failed Due to Message: 
+Processing row : 138Processing row : 139Processing row : 140Processing row : 141Processing row : 142for +94777837206 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 143Processing row : 144for +94774603672 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 145Processing row : 146Processing row : 147for +94https://be-a-creative-writer.blogspot.com/ Message Failed Due to Message: 
+Processing row : 148Processing row : 149for +94703999207 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 150for +94703995186 Message Failed Due to Message: 
+Processing row : 151Processing row : 152Processing row : 153for +94759554547 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 154Processing row : 155Processing row : 156Processing row : 157for +94789861456 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 158Processing row : 159Processing row : 160for +94703699322 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 161Processing row : 162for +94[] Message Failed Due to Message: 
+Processing row : 163for +94775999766 Message Failed Due to Message: 
+Processing row : 164Processing row : 165Processing row : 166Processing row : 167for +94761104073 Message Failed Due to Message: 
+Processing row : 168Processing row : 169for +94766447315 Message Failed Due to Message: 
+Processing row : 170Processing row : 171for +94713013371 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 172Processing row : 173Processing row : 174Processing row : 175Processing row : 176Processing row : 177Processing row : 178for +94777749177 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 179for +94[] Message Failed Due to Message: 
+Processing row : 180for +94702367848 Message Failed Due to Message: 
+Processing row : 181for +94765518133 Message Failed Due to Message: 
+Processing row : 182Processing row : 183Processing row : 184for +94[] Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 185Processing row : 186for +94777635346 Message Failed Due to Message: 
+Processing row : 187for +94776441521 Message Failed Due to Message: 
+Processing row : 188Processing row : 189for +94[] Message Failed Due to Message: 
+Processing row : 190Processing row : 191for +94766505733 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 192Processing row : 193Processing row : 194Processing row : 195Processing row : 196for +94703925391 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 197for +94716080682 Message Failed Due to Message: 
+Processing row : 198for +94https://sites.google.com/view/sathith?fbclid=IwAR3hKzK88-89wYsseQEXXV_4InVAjZ0S7dnvvpINNCd218QsHoUTatSH1r8 Message Failed Due to Message: 
+Processing row : 199Processing row : 200Processing row : 201for +94766536176 Message Failed Due to Message: 
+Processing row : 202Processing row : 203for +94718363798 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 204Processing row : 205for +94760023137 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 206Processing row : 207for +94711194042 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 208for +94714983695 Message Failed Due to Message: 
+Processing row : 209Processing row : 210for +94[] Message Failed Due to Message: 
+Processing row : 211Processing row : 212for +94763185424 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 213Processing row : 214Processing row : 215Processing row : 216for +94713610833 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 217Processing row : 218for +94768208662 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 219for +94775047759 Message Failed Due to Message: 
+Processing row : 220for +94[] Message Failed Due to Message: 
+Processing row : 221Processing row : 222Processing row : 223Processing row : 224for +94719391657 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 225for +94787972484 Message Failed Due to Message: 
+Processing row : 226Processing row : 227for +94740688866 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 228Processing row : 229for +94779963089 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 230for +94http://chandanadesilva.c1.biz/ Message Failed Due to Message: 
+Processing row : 231for +94766767632 Message Failed Due to Message: 
+Processing row : 232Processing row : 233for +94http://www.physicshdm.wordpress.com Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 234Processing row : 235Processing row : 236for +94776211629 Message Failed Due to Message: 
+Processing row : 237Processing row : 238for +94777633699 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 239Processing row : 240for +94763577361 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 241Processing row : 242for +94710951891 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 243for +94775122396 Message Failed Due to Message: 
+Processing row : 244Processing row : 245for +94710128441 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 246Processing row : 247for +94718785267 Message Failed Due to Message: 
+Processing row : 248for +94766562683 Message Failed Due to Message: 
+Processing row : 249Processing row : 250for +94112173948 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 251for +94775999766 Message Failed Due to Message: 
+Processing row : 252Processing row : 253for +94715200079 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 254for +94[] Message Failed Due to Message: 
+Processing row : 255Processing row : 256for +94719289067 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 257Processing row : 258Processing row : 259for +94774524482 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 260Processing row : 261for +94716839747 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 262Processing row : 263for +94719156724 Message Failed Due to Message: 
+Processing row : 264Processing row : 265for +94770276495 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 266Processing row : 267Processing row : 268Processing row : 269for +94717511411 Message Failed Due to Message: 
+Processing row : 270Processing row : 271for +94719321942 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 272Processing row : 273Processing row : 274for +94772582700 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 275Processing row : 276for +94[] Message Failed Due to Message: 
+Processing row : 277Processing row : 278for +94[] Message Failed Due to Message: 
+Processing row : 279Processing row : 280for +94711803336 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 281Processing row : 282Processing row : 283for +94773665096 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 284Processing row : 285for +94779176548 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 286Processing row : 287for +94775530812 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 288for +94717644679 Message Failed Due to Message: 
+Processing row : 289Processing row : 290Processing row : 291Processing row : 292for +94760746020 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 293Processing row : 294Processing row : 295Processing row : 296for +94[] Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 297for +94[] Message Failed Due to Message: 
+Processing row : 298Processing row : 299Processing row : 300for +94766798345 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 301for +94760020839 Message Failed Due to Message: 
+Processing row : 302for +94701571960 Message Failed Due to Message: 
+Processing row : 303Processing row : 304Processing row : 305Processing row : 306for +94763976246 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 307Processing row : 308for +94701977865 Message Failed Due to Message: 
+Processing row : 309for +94[] Message Failed Due to Message: 
+Processing row : 310Processing row : 311for +94765664330 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 312for +94http://hksm87.weebly.com/ Message Failed Due to Message: 
+Processing row : 313Processing row : 314Processing row : 315for +94727987181 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 316Processing row : 317for +94713390240 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 318Processing row : 319for +94714112258 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 320Processing row : 321Processing row : 322Processing row : 323Processing row : 324for +94776819715 Message Failed Due to Message: 
+Processing row : 325Processing row : 326for +94771318671 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 327for +94776459932 Message Failed Due to Message: 
+Processing row : 328Processing row : 329for +94770351543 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 330Processing row : 331Processing row : 332for +94714793595 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 333Processing row : 334Processing row : 335for +94782362759 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 336Processing row : 337for +94706797575 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 338Processing row : 339for +94[] Message Failed Due to Message: 
+Processing row : 340for +94706159582 Message Failed Due to Message: 
+Processing row : 341for +94775999766 Message Failed Due to Message: 
+Processing row : 342Processing row : 343for +94775197978 Message Failed Due to Message: 
+Processing row : 344for +94[] Message Failed Due to Message: 
+Processing row : 345Processing row : 346Processing row : 347for +94774656909 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 348Processing row : 349for +94717221713 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 350for +94[] Message Failed Due to Message: 
+Processing row : 351for +94[] Message Failed Due to Message: 
+Processing row : 352Processing row : 353Processing row : 354for +94[] Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 355Processing row : 356for +94703633041 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 357Processing row : 358for +94789363378 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 359for +94778627224 Message Failed Due to Message: 
+Processing row : 360for +94711522430 Message Failed Due to Message: 
+Processing row : 361Processing row : 362for +94716592348 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 363Processing row : 364Processing row : 365Processing row : 366for +94773833037 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 367for +94775047759 Message Failed Due to Message: 
+Processing row : 368for +94[] Message Failed Due to Message: 
+Processing row : 369Processing row : 370for +94http://www.ets.lk Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 371Processing row : 372for +94071952576 Message Failed Due to Message: 
+Processing row : 373Processing row : 374Processing row : 375Processing row : 376for +94775251568 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 377Processing row : 378Processing row : 379for +94[] Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 380for +94712261829 Message Failed Due to Message: 
+Processing row : 381Processing row : 382for +94713142861 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 383Processing row : 384for +94776905374 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 385Processing row : 386for +94715397160 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 387Processing row : 388for +94767735787 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 389Processing row : 390Processing row : 391for +94788413599 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 392Processing row : 393for +94775219264 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 394Processing row : 395for +94https://prime-education-department-of-education.business.site/?m=true&fbclid=IwAR270yVW-SvaVeVaDrz8Bl-hyEKsGfC5R7Z26q4JjqO_QWla5E-GQMu6kyg Message Failed Due to Message: 
+Processing row : 396Processing row : 397for +94777754145 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 398for +94713014423 Message Failed Due to Message: 
+Processing row : 399Processing row : 400for +94https://lets-speak.company.site/ Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 401Processing row : 402for +94https://www.slchemmaster.com/ Message Failed Due to Message: 
+Processing row : 403Processing row : 404for +94779232455 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 405for +94[] Message Failed Due to Message: 
+Processing row : 406Processing row : 407for +94712275530 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 408Processing row : 409for +94https://www.facebook.com/gurumadhura Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 410for +94762224567 Message Failed Due to Message: 
+Processing row : 411Processing row : 412for +94771151798 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 413Processing row : 414for +94740319805 Message Failed Due to Message: 
+Processing row : 415Processing row : 416for +94779191187 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 417Processing row : 418for +94771857853 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 419for +94https://aihe.lk/programs/ez-express-english-course/ Message Failed Due to Message: 
+Processing row : 420for +94740441347 Message Failed Due to Message: 
+Processing row : 421Processing row : 422Processing row : 423for +94771991011 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 424Processing row : 425for +94710517361 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 426Processing row : 427Processing row : 428Processing row : 429for +94767800042 Message Failed Due to Message: 
+Processing row : 430Processing row : 431for +94718066703 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 432Processing row : 433for +94773075831 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 434Processing row : 435for +94717181543 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 436Processing row : 437for +94772671014 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 438Processing row : 439for +94719314788 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 440Processing row : 441for +94776359814 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 442Processing row : 443for +94716411900 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 444for +94[] Message Failed Due to Message: 
+Processing row : 445Processing row : 446Processing row : 447for +94https://www.etsft.com Message Failed Due to Message: 
+Processing row : 448for +94[] Message Failed Due to Message: 
+Processing row : 449for +94715820393 Message Failed Due to Message: 
+Processing row : 450for +94[] Message Failed Due to Message: 
+Processing row : 451Processing row : 452for +94779273563 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 453Processing row : 454for +94720401349 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 455Processing row : 456for +94112506037 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 457Processing row : 458for +94778344448 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 459for +94777149762 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 460for +94741061585 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 461for +94779321332 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 462for +94773309636 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 463for +94778431706 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 464for +94715316697 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 465for +94771166113 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 466for +94775709146 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 467Processing row : 468Processing row : 469Processing row : 470Processing row : 471for +94768702819 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 472Processing row : 473Processing row : 474for +94762470845 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 475for +94786367144 Message Failed Due to Message: 
+Processing row : 476Processing row : 477for +94[] Message Failed Due to Message: 
+Processing row : 478Processing row : 479for +94777864456 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 480for +94741673938 Message Failed Due to Message: 
+Processing row : 481Processing row : 482for +94763873659 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 483Processing row : 484for +94112234486 Message Failed Due to Message: 
+Processing row : 485Processing row : 486Processing row : 487for +94718698728 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 488for +94760303951 Message Failed Due to Message: 
+Processing row : 489for +94[] Message Failed Due to Message: 
+Processing row : 490Processing row : 491for +94711916344 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 492for +94766746725 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 1Processing row : 2for +94703414786 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 3for +94703414786 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 4Processing row : 5for +94703414786 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 6Processing row : 7for +94703414786 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 8for +94703414786 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 1for +94740767770 Message Failed Due to Message: 
+Processing row : 2for +94719932868 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 3for +94774031304 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 4for +94711529188 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 5for +94712097034 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 6for +94712258446 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 7for +94763124447 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 8for +94774710902 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 9for +94766790264 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 10for +94773948525 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 11for +94773240637 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 12for +94766929575 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 13for +94776139788 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 14for +94715541675 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 1for +94740767770 Message Failed Due to Message: 
+Processing row : 2for +94719932868 Message Failed Due to Message: 
+Processing row : 3for +94774031304 Message Failed Due to Message: chrome not reachable
+  (Session info: chrome=91.0.4472.124)
+Processing row : 1Processing row : 2for +94719932868 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 3for +94774031304 Message Failed Due to Message: 
+Processing row : 1for +94719932868 Message Failed Due to Message: 
+Processing row : 1for +94719932868 Message Failed Due to Message: 
+Processing row : 2for +94774031304 Message Failed Due to Message: 
+Processing row : 3Processing row : 4Processing row : 5for +94712258446 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 6for +94763124447 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 7Processing row : 8for +94766790264 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 9for +94773948525 Message Failed Due to Message: 
+Processing row : 10Processing row : 11for +94766929575 Message Failed Due to Message: 
+Processing row : 12Processing row : 13Processing row : 14Processing row : 15Processing row : 16for +94719932932 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 17for +94[] Message Failed Due to Message: 
+Processing row : 18for +94719721135 Message Failed Due to Message: 
+Processing row : 19for +94https://isurujsbe.blogspot.com/ Message Failed Due to Message: 
+Processing row : 20Processing row : 21for +94718147600 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 22Processing row : 23Processing row : 24for +94716306488 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 25Processing row : 26for +94713825097 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 27Processing row : 28for +94755090648 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 29Processing row : 30for +94719594008 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 31Processing row : 32for +94765496271 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 33for +94[] Message Failed Due to Message: 
+Processing row : 34Processing row : 35for +94714711537 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 36Processing row : 37for +94768416342 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 38for +94776326747 Message Failed Due to Message: 
+Processing row : 39Processing row : 40Processing row : 41for +94112487899 Message Failed Due to Message: 
+Processing row : 42Processing row : 43for +94720806985 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 44for +94332248604 Message Failed Due to Message: 
+Processing row : 45for +94https://youtube.com/channel/UCqFzcBGQZ3z8XLymOcodgMw Message Failed Due to Message: 
+Processing row : 46for +94https://youtube.com/channel/UCqFzcBGQZ3z8XLymOcodgMw Message Failed Due to Message: 
+Processing row : 47Processing row : 48for +94504352695 Message Failed Due to Message: 
+Processing row : 49Processing row : 50for +94777897461 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 51Processing row : 52Processing row : 53for +94776528438 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 54for +94[] Message Failed Due to Message: 
+Processing row : 55for +94[] Message Failed Due to Message: 
+Processing row : 56for +94[] Message Failed Due to Message: 
+Processing row : 57Processing row : 58for +94713683512 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 59Processing row : 60for +94711703355 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 61for +94713801150 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 62Processing row : 63for +94717275153 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 64for +94703129491 Message Failed Due to Message: 
+Processing row : 65Processing row : 66for +94715543530 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 67Processing row : 68for +94776497070 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 69Processing row : 70for +94112954717 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 71Processing row : 72for +94773528852 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 73Processing row : 74for +94770731155 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 75Processing row : 76for +94713513217 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 77for +94716861189 Message Failed Due to Message: 
+Processing row : 78Processing row : 79for +94[] Message Failed Due to Message: 
+Processing row : 80Processing row : 81for +94[] Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 82Processing row : 83for +94773780993 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 84for +94711920178 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 85Processing row : 86for +94767665993 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 87Processing row : 88for +94776318502 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 89for +94Hansi Message Failed Due to Message: 
+Processing row : 90Processing row : 91for +94112180524 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 92for +94777185924 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 93Processing row : 94for +94705963008 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 95Processing row : 96for +94716560879 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 97Processing row : 98for +94773310221 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 99for +94778132448 Message Failed Due to Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=91.0.4472.124)
+Processing row : 100Processing row : 101Processing row : 102Processing row : 103for +94715404638 Message Failed Due to Message: 
+Processing row : 104for +94[] Message Failed Due to Message: 
+Processing row : 105for +94[] Message Failed Due to Message: 
+Processing row : 106for +94778292714 Message Failed Due to Message: 
+Processing row : 107Processing row : 108for +94112726273 Message Failed Due to Message: 
+Processing row : 109Processing row : 110for +94771513779 Message Failed Due to Message: 
+Processing row : 111for +94786606597 Message Failed Due to Message: 
+Processing row : 112for +94[] Message Failed Due to Message: 
+Processing row : 113for +94718100052 Message Failed Due to Message: 
+Processing row : 114Processing row : 115for +94716902172 Message Failed Due to Message: 
+Processing row : 116Processing row : 117Processing row : 118for +94https://chat.whatsapp.com/EC6ejf3LTyRBbwIwWGlvh3 Message Failed Due to Message: 
+Processing row : 119Processing row : 120Processing row : 121Processing row : 122Processing row : 123Processing row : 124Processing row : 125Processing row : 126for +94777388306 Message Failed Due to Message: 
+Processing row : 127Processing row : 128Processing row : 129Processing row : 130Processing row : 131for +94769043833 Message Failed Due to Message: 
+Processing row : 132for +94772642224 Message Failed Due to Message: 
+Processing row : 133Processing row : 134Processing row : 135Processing row : 136Processing row : 137Processing row : 138for +94762507075 Message Failed Due to Message: 
+Processing row : 139for +94[] Message Failed Due to Message: 
+Processing row : 140Processing row : 141for +94777972971 Message Failed Due to Message: 
+Processing row : 142Processing row : 143for +94711770951 Message Failed Due to Message: 
+Processing row : 144Processing row : 145Processing row : 146Processing row : 147for +94779365613 Message Failed Due to Message: 
+Processing row : 148for +94713101638 Message Failed Due to Message: 
+Processing row : 149for +94332260621 Message Failed Due to Message: 
+Processing row : 150for +94726293050 Message Failed Due to Message: 
+Processing row : 151for +94712920468 Message Failed Due to Message: 
+Processing row : 152for +94777487031 Message Failed Due to Message: 
+Processing row : 153for +94[] Message Failed Due to Message: 
+Processing row : 154for +94114776325 Message Failed Due to Message: 
+Processing row : 155for +94772708813 Message Failed Due to Message: 
+Processing row : 156for +94782526436 Message Failed Due to Message: 
+Processing row : 157for +94768935474 Message Failed Due to Message: 
+Processing row : 158for +94715503635 Message Failed Due to Message: 
+Processing row : 159for +94777235366 Message Failed Due to Message: 
+Processing row : 160for +94714769003 Message Failed Due to Message: 
+Processing row : 161for +94776857206 Message Failed Due to Message: 
+Processing row : 162for +94702733637 Message Failed Due to Message: 
+Processing row : 163Processing row : 164Processing row : 165Processing row : 166for +94711849639 Message Failed Due to Message: 
+Processing row : 167Processing row : 168Processing row : 169for +94777271914 Message Failed Due to Message: 
+Processing row : 170Processing row : 171Processing row : 172for +94719800431 Message Failed Due to Message: 
+Processing row : 173Processing row : 174Processing row : 175Processing row : 176Processing row : 177for +94[] Message Failed Due to Message: 
+Processing row : 178Processing row : 179for +94[] Message Failed Due to Message: 
+Processing row : 180for +94770426214 Message Failed Due to Message: 
+Processing row : 181for +94776512156 Message Failed Due to Message: 
+Processing row : 182for +94712231945 Message Failed Due to Message: 
+Processing row : 183for +94715540438 Message Failed Due to Message: 
+Processing row : 184for +94767222858 Message Failed Due to Message: 
+Processing row : 185for +94452273558 Message Failed Due to Message: 
+Processing row : 186for +94764455945 Message Failed Due to Message: 
+Processing row : 187for +94767998070 Message Failed Due to Message: 
+Processing row : 188for +94774047320 Message Failed Due to Message: 
+Processing row : 189for +94712549899 Message Failed Due to Message: 
+Processing row : 190for +94775814114 Message Failed Due to Message: 
+Processing row : 191for +94713412920 Message Failed Due to Message: 
+Processing row : 192for +94717264607 Message Failed Due to Message: 
+Processing row : 193for +94718247862 Message Failed Due to Message: 
+Processing row : 194for +94712484156 Message Failed Due to Message: 
+Processing row : 195for +94719275251 Message Failed Due to Message: 
+Processing row : 196for +94714507281 Message Failed Due to Message: 
+Processing row : 197for +94703171612 Message Failed Due to Message: 
+Processing row : 198for +94770177714 Message Failed Due to Message: 
+Processing row : 199for +94754706164 Message Failed Due to Message: 
+Processing row : 200for +94754343258 Message Failed Due to Message: 
+Processing row : 201for +94771355999 Message Failed Due to Message: 
+Processing row : 202for +94765835708 Message Failed Due to Message: 
+Processing row : 203for +94771666188 Message Failed Due to Message: 
+Processing row : 204for +94772115140 Message Failed Due to Message: 
+Processing row : 205for +94774826023 Message Failed Due to Message: 
+Processing row : 206for +94719340057 Message Failed Due to Message: 
+Processing row : 207for +94761393526 Message Failed Due to Message: 
+Processing row : 208for +94773886882 Message Failed Due to Message: 
+Processing row : 209for +94777538556 Message Failed Due to Message: 
+Processing row : 210for +94714843851 Message Failed Due to Message: 
+Processing row : 211for +94772924816 Message Failed Due to Message: 
+Processing row : 212for +94715770481 Message Failed Due to Message: 
+Processing row : 213Processing row : 214for +94702017920 Message Failed Due to Message: 
+Processing row : 215Processing row : 216for +94715804292 Message Failed Due to Message: 
+Processing row : 217for +94772988999 Message Failed Due to Message: 
+Processing row : 218Processing row : 219Processing row : 220Processing row : 221Processing row : 222for +94718464499 Message Failed Due to Message: 
+Processing row : 223Processing row : 224Processing row : 225Processing row : 226Processing row : 227Processing row : 228Processing row : 229Processing row : 230Processing row : 231Processing row : 232Processing row : 233Processing row : 234Processing row : 235Processing row : 236Processing row : 237for +94713063024 Message Failed Due to Message: 
+Processing row : 238Processing row : 239for +94710123648 Message Failed Due to Message: 
+Processing row : 240Processing row : 241Processing row : 242for +94713910341 Message Failed Due to Message: 
+Processing row : 243Processing row : 244Processing row : 245Processing row : 246Processing row : 247Processing row : 248Processing row : 249for +94766786879 Message Failed Due to Message: 
+Processing row : 250for +94702380715 Message Failed Due to Message: 
+Processing row : 251for +94702499398 Message Failed Due to Message: 
+Processing row : 252for +94770772767 Message Failed Due to Message: 
+Processing row : 253for +94[] Message Failed Due to Message: 
+Processing row : 254for +94712249378 Message Failed Due to Message: 
+Processing row : 255for +94https://www.sarhoon.com/ Message Failed Due to Message: 
+Processing row : 256for +94778952295 Message Failed Due to Message: 
+Processing row : 257for +94718946213 Message Failed Due to Message: 
+Processing row : 258for +94112890732 Message Failed Due to Message: 
+Processing row : 259for +94777596970 Message Failed Due to Message: 
+Processing row : 260for +94762722042 Message Failed Due to Message: 
+Processing row : 261for +94https://korean-study-point.business.site/ Message Failed Due to Message: 
+Processing row : 262for +94711269771 Message Failed Due to Message: 
+Processing row : 263for +94714738492 Message Failed Due to Message: 
+Processing row : 264for +94767584062 Message Failed Due to Message: 
+Processing row : 265for +94https://www.facebook.com/brassacademyofmusic Message Failed Due to Message: 
+Processing row : 266for +94723420459 Message Failed Due to Message: 
+Processing row : 267for +94717742733 Message Failed Due to Message: 
+Processing row : 268for +94https://ictallclassnew.blogspot.com/2019/08/programming-classeswellawatte.html Message Failed Due to Message: 
+Processing row : 269for +94712348279 Message Failed Due to Message: 
+Processing row : 270for +94718827850 Message Failed Due to Message: 
+Processing row : 271for +94771652780 Message Failed Due to Message: 
+Processing row : 272for +94767600292 Message Failed Due to Message: 
+Processing row : 273for +94777552964 Message Failed Due to Message: 
+Processing row : 274for +94714517197 Message Failed Due to Message: 
+Processing row : 275for +94779708995 Message Failed Due to Message: 
+Processing row : 276for +94765257090 Message Failed Due to Message: 
+Processing row : 277for +94777329259 Message Failed Due to Message: 
+Processing row : 278for +94762212692 Message Failed Due to Message: 
+Processing row : 279for +94770776290 Message Failed Due to Message: 
+Processing row : 280for +94774354495 Message Failed Due to Message: 
+Processing row : 281for +94752550377 Message Failed Due to Message: 
+Processing row : 282for +94717993042 Message Failed Due to Message: 
+Processing row : 283for +94776884710 Message Failed Due to Message: 
+Processing row : 284for +94771785856 Message Failed Due to Message: 
+Processing row : 285for +94714619875 Message Failed Due to Message: 
+Processing row : 286for +94777285223 Message Failed Due to Message: 
+Processing row : 287for +94713972441 Message Failed Due to Message: 
+Processing row : 288for +94779124755 Message Failed Due to Message: 
+Processing row : 289for +94765324255 Message Failed Due to Message: 
+Processing row : 290for +94718542006 Message Failed Due to Message: 
+Processing row : 291for +94https://samithalwis.blogspot.com/ Message Failed Due to Message: 
+Processing row : 292Processing row : 293Processing row : 294Processing row : 295for +94766994122 Message Failed Due to Message: 
+Processing row : 296for +94779811050 Message Failed Due to Message: 
+Processing row : 297for +94714900004 Message Failed Due to Message: 
+Processing row : 298for +94789320826 Message Failed Due to Message: 
+Processing row : 299for +94716426276 Message Failed Due to Message: 
+Processing row : 300for +94772224030 Message Failed Due to Message: 
+Processing row : 301for +94705283839 Message Failed Due to Message: 
+Processing row : 302for +94715521789 Message Failed Due to Message: 
+Processing row : 303for +94716774202 Message Failed Due to Message: 
+Processing row : 304for +94764090068 Message Failed Due to Message: 
+Processing row : 305for +94765444037 Message Failed Due to Message: 
+Processing row : 306for +94342221381 Message Failed Due to Message: 
+Processing row : 307for +94710128217 Message Failed Due to Message: 
+Processing row : 308for +94716917981 Message Failed Due to Message: 
+Processing row : 309for +94713655349 Message Failed Due to Message: 
+Processing row : 310for +94http://www.dresdenacademy.com Message Failed Due to Message: 
+Processing row : 311for +94711629429 Message Failed Due to Message: 
+Processing row : 312for +94776013398 Message Failed Due to Message: 
+Processing row : 313for +94779296736 Message Failed Due to Message: 
+Processing row : 314for +94757306330 Message Failed Due to Message: 
+Processing row : 315for +94718432502 Message Failed Due to Message: 
+Processing row : 316for +94712356386 Message Failed Due to Message: 
+Processing row : 317for +94781293773 Message Failed Due to Message: 
+Processing row : 318for +94772990739 Message Failed Due to Message: 
+Processing row : 319for +94[] Message Failed Due to Message: 
+Processing row : 320for +94712397102 Message Failed Due to Message: 
+Processing row : 321for +94[] Message Failed Due to Message: 
+Processing row : 322for +94713572856 Message Failed Due to Message: 
+Processing row : 323for +94774114734 Message Failed Due to Message: 
+Processing row : 324for +94715634468 Message Failed Due to Message: 
+Processing row : 325for +94716926888 Message Failed Due to Message: 
+Processing row : 326for +94773068074 Message Failed Due to Message: 
+Processing row : 327for +94702093914 Message Failed Due to Message: 
+Processing row : 328for +94754222491 Message Failed Due to Message: 
+Processing row : 329for +94710170525 Message Failed Due to Message: 
+Processing row : 330for +94767241835 Message Failed Due to Message: 
+Processing row : 331for +94https://www.aplustutorslanka.com/ Message Failed Due to Message: 
+Processing row : 332for +94710682149 Message Failed Due to Message: 
+Processing row : 333for +94760317689 Message Failed Due to Message: 
+Processing row : 334for +94718871548 Message Failed Due to Message: 
+Processing row : 335for +94771666759 Message Failed Due to Message: 
+Processing row : 336for +94766979129 Message Failed Due to Message: 
+Processing row : 337for +94[] Message Failed Due to Message: 
+Processing row : 338for +94782377104 Message Failed Due to Message: 
+Processing row : 339for +94765623763 Message Failed Due to Message: 
+Processing row : 340for +94710569475 Message Failed Due to Message: 
+Processing row : 341for +94711473815 Message Failed Due to Message: 
+Processing row : 342for +94761258738 Message Failed Due to Message: 
+Processing row : 343for +94http://www.sahanyainstitute.webs.com Message Failed Due to Message: 
+Processing row : 344for +94772526881 Message Failed Due to Message: 
+Processing row : 345for +94711299475 Message Failed Due to Message: 
+Processing row : 346for +94719655187 Message Failed Due to Message: 
+Processing row : 347for +94766902037 Message Failed Due to Message: 
+Processing row : 348for +94766860082 Message Failed Due to Message: 
+Processing row : 349for +94717272619 Message Failed Due to Message: 
+Processing row : 350for +94771260068 Message Failed Due to Message: 
+Processing row : 351for +94781568921 Message Failed Due to Message: 
+Processing row : 352for +94702167202 Message Failed Due to Message: 
+Processing row : 353for +94[] Message Failed Due to Message: 
+Processing row : 354for +94770872398 Message Failed Due to Message: 
+Processing row : 355for +94779435067 Message Failed Due to Message: 
+Processing row : 356for +94714514314 Message Failed Due to Message: 
+Processing row : 357for +94711562410 Message Failed Due to Message: 
+Processing row : 358for +94718659749 Message Failed Due to Message: 
+Processing row : 359for +94715950441 Message Failed Due to Message: 
+Processing row : 360for +94[] Message Failed Due to Message: 
+Processing row : 361Processing row : 362for +94717743686 Message Failed Due to Message: 
+Processing row : 363Processing row : 364Processing row : 365Processing row : 366for +94770648190 Message Failed Due to Message: 
+Processing row : 367Processing row : 368Processing row : 369Processing row : 370Processing row : 371for +94https://www.facebook.com/pasanelapathaGeography/ Message Failed Due to Message: 
+Processing row : 372Processing row : 373Processing row : 374Processing row : 375Processing row : 376Processing row : 377for +94771562322 Message Failed Due to Message: 
+Processing row : 378for +94752987284 Message Failed Due to Message: 
+Processing row : 379for +94785099856 Message Failed Due to Message: 
+Processing row : 380for +94715287506 Message Failed Due to Message: 
+Processing row : 381for +94719883073 Message Failed Due to Message: 
+Processing row : 382for +94763111616 Message Failed Due to Message: 
+Processing row : 383for +94702774240 Message Failed Due to Message: 
+Processing row : 384for +94774177482 Message Failed Due to Message: 
+Processing row : 385for +94753655851 Message Failed Due to Message: 
+Processing row : 386for +94772751646 Message Failed Due to Message: 
+Processing row : 387for +94716448603 Message Failed Due to Message: 
+Processing row : 388for +94713648602 Message Failed Due to Message: 
+Processing row : 389for +94773227255 Message Failed Due to Message: 
+Processing row : 390for +94https://www.srilankaonlineschool.com Message Failed Due to Message: 
+Processing row : 391for +94715404609 Message Failed Due to Message: 
+Processing row : 392for +94774964047 Message Failed Due to Message: 
+Processing row : 393for +94752667191 Message Failed Due to Message: 
+Processing row : 394for +94777530887 Message Failed Due to Message: 
+Processing row : 395for +94776311226 Message Failed Due to Message: 
+Processing row : 396for +94714988383 Message Failed Due to Message: 
+Processing row : 397for +94710931069 Message Failed Due to Message: 
+Processing row : 398for +94702503013 Message Failed Due to Message: 
+Processing row : 399for +94779870224 Message Failed Due to Message: 
+Processing row : 400for +94774462307 Message Failed Due to Message: 
+Processing row : 401for +94719946360 Message Failed Due to Message: 
+Processing row : 402for +94770774807 Message Failed Due to Message: 
+Processing row : 403for +94https://www.facebook.com/arcaneinstitute.science Message Failed Due to Message: 
+Processing row : 404for +94775533060 Message Failed Due to Message: 
+Processing row : 405for +94779611062 Message Failed Due to Message: 
+Processing row : 406for +94764360356 Message Failed Due to Message: 
+Processing row : 407for +94771747745 Message Failed Due to Message: 
+Processing row : 408for +94711143688 Message Failed Due to Message: 
+Processing row : 409for +94719000784 Message Failed Due to Message: 
+Processing row : 410for +94771582545 Message Failed Due to Message: 
+Processing row : 411for +94703713730 Message Failed Due to Message: 
+Processing row : 412for +94750418497 Message Failed Due to Message: 
+Processing row : 413for +94774620396 Message Failed Due to Message: 
+Processing row : 414for +94761506468 Message Failed Due to Message: 
+Processing row : 415for +94771771232 Message Failed Due to Message: 
+Processing row : 416for +94772052239 Message Failed Due to Message: 
+Processing row : 417for +94716209944 Message Failed Due to Message: 
+Processing row : 418for +94771884344 Message Failed Due to Message: 
+Processing row : 419for +94112651030 Message Failed Due to Message: 
+Processing row : 420for +94764018300 Message Failed Due to Message: 
+Processing row : 421for +94772018893 Message Failed Due to Message: 
+Processing row : 422for +94717583353 Message Failed Due to Message: 
+Processing row : 423for +94702086723 Message Failed Due to Message: 
+Processing row : 424for +94755559128 Message Failed Due to Message: 
+Processing row : 425for +94773682049 Message Failed Due to Message: 
+Processing row : 426for +94112734211 Message Failed Due to Message: 
+Processing row : 427for +94716357799 Message Failed Due to Message: 
+Processing row : 428for +94714219580 Message Failed Due to Message: 
+Processing row : 429for +94http://www.codezeilan.com Message Failed Due to Message: 
+Processing row : 430for +94718461323 Message Failed Due to Message: 
+Processing row : 431for +94713905573 Message Failed Due to Message: 
+Processing row : 432for +94703007591 Message Failed Due to Message: 
+Processing row : 433for +94768706128 Message Failed Due to Message: 
+Processing row : 434for +94718501812 Message Failed Due to Message: 
+Processing row : 435for +94382297609 Message Failed Due to Message: 
+Processing row : 436Processing row : 437for +94713622384 Message Failed Due to Message: 
+Processing row : 438Processing row : 439Processing row : 440for +94712698725 Message Failed Due to Message: 
+Processing row : 441Processing row : 442Processing row : 443Processing row : 444Processing row : 445Processing row : 446Processing row : 447Processing row : 448for +94760170972 Message Failed Due to Message: 
+Processing row : 449for +94773205450 Message Failed Due to Message: 
+Processing row : 450for +94702794917 Message Failed Due to Message: 
+Processing row : 451for +94714259608 Message Failed Due to Message: 
+Processing row : 452for +94771923667 Message Failed Due to Message: 
+Processing row : 453for +94713001479 Message Failed Due to Message: 
+Processing row : 454for +94776498540 Message Failed Due to Message: 
+Processing row : 455for +94703822885 Message Failed Due to Message: 
+Processing row : 456for +94711170894 Message Failed Due to Message: 
+Processing row : 457for +94767866568 Message Failed Due to Message: 
+Processing row : 458for +94711771407 Message Failed Due to Message: 
+Processing row : 459for +94770718730 Message Failed Due to Message: 
+Processing row : 460for +94763790972 Message Failed Due to Message: 
+Processing row : 461for +94715413984 Message Failed Due to Message: 
+Processing row : 462for +94112516829 Message Failed Due to Message: 
+Processing row : 463for +94779857333 Message Failed Due to Message: 
+Processing row : 464for +94716001964 Message Failed Due to Message: 
+Processing row : 465for +94http://horizonbpo.org/ Message Failed Due to Message: 
+Processing row : 466for +94701836969 Message Failed Due to Message: 
+Processing row : 467for +94773559629 Message Failed Due to Message: 
+Processing row : 468for +94774061135 Message Failed Due to Message: 
+Processing row : 469for +94767012522 Message Failed Due to Message: 
+Processing row : 470for +94717600297 Message Failed Due to Message: 
+Processing row : 471for +94777931098 Message Failed Due to Message: 
+Processing row : 472for +94711516836 Message Failed Due to Message: 
+Processing row : 473for +94771783557 Message Failed Due to Message: 
+Processing row : 474for +94717925275 Message Failed Due to Message: 
+Processing row : 475for +94767949760 Message Failed Due to Message: 
+Processing row : 476for +94756701213 Message Failed Due to Message: 
+Processing row : 477for +94716058131 Message Failed Due to Message: 
+Processing row : 478for +94778875747 Message Failed Due to Message: 
+Processing row : 479for +94772968803 Message Failed Due to Message: 
+Processing row : 480for +94778303847 Message Failed Due to Message: 
+Processing row : 481for +94774161644 Message Failed Due to Message: 
+Processing row : 482for +94778945559 Message Failed Due to Message: 
+Processing row : 483for +94770377281 Message Failed Due to Message: 
+Processing row : 484for +94769776742 Message Failed Due to Message: 
+Processing row : 485for +94771654373 Message Failed Due to Message: 
+Processing row : 486for +94711397945 Message Failed Due to Message: 
+Processing row : 487for +94713218866 Message Failed Due to Message: 
+Processing row : 488for +94765350488 Message Failed Due to Message: 
+Processing row : 489for +94771111377 Message Failed Due to Message: 
+Processing row : 490for +94713618917 Message Failed Due to Message: 
+Processing row : 491for +94765429316 Message Failed Due to Message: 
+Processing row : 492for +94778432090 Message Failed Due to Message: 
+Processing row : 493for +94769637463 Message Failed Due to Message: 
+Processing row : 494for +94759058899 Message Failed Due to Message: 
+Processing row : 495for +94719262961 Message Failed Due to Message: 
+Processing row : 496for +94716550087 Message Failed Due to Message: 
+Processing row : 497for +94728021574 Message Failed Due to Message: 
+Processing row : 498for +94715135628 Message Failed Due to Message: 
+Processing row : 499for +94779778660 Message Failed Due to Message: 
+Processing row : 500for +94765378047 Message Failed Due to Message: 
+Processing row : 501for +94772553274 Message Failed Due to Message: 
+Processing row : 502for +94703319392 Message Failed Due to Message: 
+Processing row : 503for +94776723974 Message Failed Due to Message: 
+Processing row : 504for +94https://www.youtube.com/user/TangalleZone Message Failed Due to Message: 
+Processing row : 505for +94762398364 Message Failed Due to Message: 
+Processing row : 506for +94770441887 Message Failed Due to Message: 
+Processing row : 507for +94771008349 Message Failed Due to Message: 
+Processing row : 508Processing row : 509Processing row : 510for +94711755227 Message Failed Due to Message: 
+Processing row : 511for +94769300223 Message Failed Due to Message: 
+Processing row : 512for +94774648032 Message Failed Due to Message: 
+Processing row : 513for +94774600716 Message Failed Due to Message: 
+Processing row : 514for +94https://www.youtube.com/channel/UCWyuQOGnebsa0VEQB6Mz5jg Message Failed Due to Message: 
+Processing row : 515for +94763331156 Message Failed Due to Message: 
+Processing row : 516for +94718393603 Message Failed Due to Message: 
+Processing row : 517for +94710537340 Message Failed Due to Message: 
+Processing row : 518for +94[] Message Failed Due to Message: 
+Processing row : 519for +94112736670 Message Failed Due to Message: 
+Processing row : 520for +94713574457 Message Failed Due to Message: 
+Processing row : 521for +94716188155 Message Failed Due to Message: 
+Processing row : 522for +94714732445 Message Failed Due to Message: 
+Processing row : 523Processing row : 524for +94719036644 Message Failed Due to Message: 
+Processing row : 525for +94https://www.facebook.com/affanariff325/?modal=admin_todo_tour Message Failed Due to Message: 
+Processing row : 526Processing row : 527Processing row : 528Processing row : 529Processing row : 530for +94720613070 Message Failed Due to Message: 
+Processing row : 531Processing row : 532Processing row : 533for +94772323185 Message Failed Due to Message: 
+Processing row : 534Processing row : 535for +944762105435 Message Failed Due to Message: 
+Processing row : 536Processing row : 537for +94768411822 Message Failed Due to Message: 
+Processing row : 538for +94https://web.facebook.com/Kandy-Japanese-Class-102326741561367/ Message Failed Due to Message: 
+Processing row : 539Processing row : 540Processing row : 541for +94761339875 Message Failed Due to Message: 
+Processing row : 542Processing row : 543for +94773395735 Message Failed Due to Message: 
+Processing row : 544Processing row : 545Processing row : 546Processing row : 547Processing row : 548for +94765278294 Message Failed Due to Message: 
+Processing row : 549Processing row : 550for +94772249107 Message Failed Due to Message: 
+Processing row : 551Processing row : 552Processing row : 553Processing row : 554Processing row : 555Processing row : 556Processing row : 557Processing row : 558for +94717378093 Message Failed Due to Message: 
+Processing row : 559Processing row : 560Processing row : 561Processing row : 562Processing row : 563Processing row : 564Processing row : 565for +94718197517 Message Failed Due to Message: 
+Processing row : 566Processing row : 567for +94772156057 Message Failed Due to Message: 
+Processing row : 568Processing row : 569Processing row : 570Processing row : 571for +94714256216 Message Failed Due to Message: 
+Processing row : 572for +94712726012 Message Failed Due to Message: 
+Processing row : 573for +94763335435 Message Failed Due to Message: 
+Processing row : 574Processing row : 575Processing row : 576Processing row : 577for +94776385667 Message Failed Due to Message: 
+Processing row : 578Processing row : 579for +94773171171 Message Failed Due to Message: 
+Processing row : 580Processing row : 581Processing row : 582for +94774945191 Message Failed Due to Message: 
+Processing row : 583Processing row : 584Processing row : 585Processing row : 586for +94711659476 Message Failed Due to Message: 
+Processing row : 587Processing row : 588Processing row : 589Processing row : 590Processing row : 591Processing row : 592Processing row : 593Processing row : 594Processing row : 595Processing row : 596Processing row : 597Processing row : 598for +94714569617 Message Failed Due to Message: 
+Processing row : 599for +94715864371 Message Failed Due to Message: 
+Processing row : 600for +94710989949 Message Failed Due to Message: 
+Processing row : 601for +94719890460 Message Failed Due to Message: 
+Processing row : 602for +94774834918 Message Failed Due to Message: 
+Processing row : 603for +94772293838 Message Failed Due to Message: 
+Processing row : 604for +94705532785 Message Failed Due to Message: 
+Processing row : 605for +94716164490 Message Failed Due to Message: 
+Processing row : 606for +94776661547 Message Failed Due to Message: 
+Processing row : 607for +94717616359 Message Failed Due to Message: 
+Processing row : 608for +94712204363 Message Failed Due to Message: 
+Processing row : 609for +94718161428 Message Failed Due to Message: 
+Processing row : 610for +94718795505 Message Failed Due to Message: 
+Processing row : 611for +94775991498 Message Failed Due to Message: 
+Processing row : 612for +94702745966 Message Failed Due to Message: 
+Processing row : 613for +94http://ictclasses.asianachiever.com/ Message Failed Due to Message: 
+Processing row : 614for +94777250183 Message Failed Due to Message: 
+Processing row : 615for +94766913106 Message Failed Due to Message: 
+Processing row : 616for +94753275165 Message Failed Due to Message: 
+Processing row : 617for +94777455544 Message Failed Due to Message: 
+Processing row : 618for +94718863982 Message Failed Due to Message: 
+Processing row : 619for +94714840317 Message Failed Due to Message: 
+Processing row : 620for +94774444409 Message Failed Due to Message: 
+Processing row : 621for +94[] Message Failed Due to Message: 
+Processing row : 622for +94775233024 Message Failed Due to Message: 
+Processing row : 623for +94711527213 Message Failed Due to Message: 
+Processing row : 624for +94770037004 Message Failed Due to Message: 
+Processing row : 625for +94[] Message Failed Due to Message: 
+Processing row : 626for +94717500872 Message Failed Due to Message: 
+Processing row : 627for +94774032000 Message Failed Due to Message: 
+Processing row : 628for +94752800360 Message Failed Due to Message: 
+Processing row : 629for +94716964204 Message Failed Due to Message: 
+Processing row : 630for +94771702395 Message Failed Due to Message: 
+Processing row : 631for +94702179272 Message Failed Due to Message: 
+Processing row : 632for +94772305560 Message Failed Due to Message: 
+Processing row : 633for +94714464966 Message Failed Due to Message: 
+Processing row : 634for +94772888046 Message Failed Due to Message: 
+Processing row : 635for +94717531660 Message Failed Due to Message: 
+Processing row : 636for +94[] Message Failed Due to Message: 
+Processing row : 637for +94716719683 Message Failed Due to Message: 
+Processing row : 638for +94713171314 Message Failed Due to Message: 
+Processing row : 639for +94710879222 Message Failed Due to Message: 
+Processing row : 640for +94714857791 Message Failed Due to Message: 
+Processing row : 641for +94779246779 Message Failed Due to Message: 
+Processing row : 642for +94719222721 Message Failed Due to Message: 
+Processing row : 643for +94https://sites.google.com/view/fourtutor/english?authuser=1 Message Failed Due to Message: 
+Processing row : 644for +94712723429 Message Failed Due to Message: 
+Processing row : 645for +94760303951 Message Failed Due to Message: 
+Processing row : 646for +94712553346 Message Failed Due to Message: 
+Processing row : 647for +94703919401 Message Failed Due to Message: 
+Processing row : 648for +94724396572 Message Failed Due to Message: 
+Processing row : 649for +94766995818 Message Failed Due to Message: 
+Processing row : 650for +94702985619 Message Failed Due to Message: 
+Processing row : 651for +94710513616 Message Failed Due to Message: 
+Processing row : 652for +94719987650 Message Failed Due to Message: 
+Processing row : 653for +94761777356 Message Failed Due to Message: 
+Processing row : 654for +94776202347 Message Failed Due to Message: 
+Processing row : 655for +94[] Message Failed Due to Message: 
+Processing row : 656for +94712932397 Message Failed Due to Message: 
+Processing row : 657for +94783205390 Message Failed Due to Message: 
+Processing row : 658for +94http://www.udarasoysa.com/ Message Failed Due to Message: 
+Processing row : 659for +94https://www.linkedin.com/in/ilham-rafeek/ Message Failed Due to Message: 
+Processing row : 660for +94754737596 Message Failed Due to Message: 
+Processing row : 661Processing row : 662for +94768571159 Message Failed Due to Message: 
+Processing row : 663Processing row : 664Processing row : 665Processing row : 666Processing row : 667for +94763232613 Message Failed Due to Message: 
+Processing row : 668for +94776923207 Message Failed Due to Message: 
+Processing row : 669for +94718099662 Message Failed Due to Message: 
+Processing row : 670for +94722667700 Message Failed Due to Message: 
+Processing row : 671for +94777582161 Message Failed Due to Message: 
+Processing row : 672for +94http://www.gurukulaya.com Message Failed Due to Message: 
+Processing row : 673for +94770549748 Message Failed Due to Message: 
+Processing row : 674for +94http://econjeewan.blogspot.com/ Message Failed Due to Message: 
+Processing row : 675for +94777830679 Message Failed Due to Message: 
+Processing row : 676for +94772846298 Message Failed Due to Message: 
+Processing row : 677for +94711243564 Message Failed Due to Message: 
+Processing row : 678for +94714368788 Message Failed Due to Message: 
+Processing row : 679for +94711234566 Message Failed Due to Message: 
+Processing row : 680for +94772440767 Message Failed Due to Message: 
+Processing row : 681for +94774521910 Message Failed Due to Message: 
+Processing row : 682for +94766624496 Message Failed Due to Message: 
+Processing row : 683for +94717099294 Message Failed Due to Message: 
+Processing row : 684for +94710975301 Message Failed Due to Message: 
+Processing row : 685for +94783666728 Message Failed Due to Message: 
+Processing row : 686for +94719374283 Message Failed Due to Message: 
+Processing row : 687for +94713664418 Message Failed Due to Message: 
+Processing row : 688for +94767739506 Message Failed Due to Message: 
+Processing row : 689for +94713205311 Message Failed Due to Message: 
+Processing row : 690for +94https://myaccountteacher.blogspot.com/ Message Failed Due to Message: 
+Processing row : 691for +94772758477 Message Failed Due to Message: 
+Processing row : 692for +94773606308 Message Failed Due to Message: 
+Processing row : 693for +94779369984 Message Failed Due to Message: 
+Processing row : 694for +94772679882 Message Failed Due to Message: 
+Processing row : 695for +94712652458 Message Failed Due to Message: 
+Processing row : 696for +94775585522 Message Failed Due to Message: 
+Processing row : 697for +94716012742 Message Failed Due to Message: 
+Processing row : 698for +94772081714 Message Failed Due to Message: 
+Processing row : 699for +94717151692 Message Failed Due to Message: 
+Processing row : 700for +94752787286 Message Failed Due to Message: 
+Processing row : 701for +94701752978 Message Failed Due to Message: 
+Processing row : 702for +94779086223 Message Failed Due to Message: 
+Processing row : 703for +94776779990 Message Failed Due to Message: 
+Processing row : 704for +94718562567 Message Failed Due to Message: 
+Processing row : 705for +94761960233 Message Failed Due to Message: 
+Processing row : 706for +94757503682 Message Failed Due to Message: 
+Processing row : 707for +94773764176 Message Failed Due to Message: 
+Processing row : 708for +94776765581 Message Failed Due to Message: 
+Processing row : 709for +94717594451 Message Failed Due to Message: 
+Processing row : 710for +94775010472 Message Failed Due to Message: 
+Processing row : 711for +94777262919 Message Failed Due to Message: 
+Processing row : 712for +94717449249 Message Failed Due to Message: 
+Processing row : 713for +94714400424 Message Failed Due to Message: 
+Processing row : 714for +94766127008 Message Failed Due to Message: 
+Processing row : 715for +94772954157 Message Failed Due to Message: 
+Processing row : 716for +94719249578 Message Failed Due to Message: 
+Processing row : 717for +94772356253 Message Failed Due to Message: 
+Processing row : 718for +94766681036 Message Failed Due to Message: 
+Processing row : 719for +94772300258 Message Failed Due to Message: 
+Processing row : 720for +94779093409 Message Failed Due to Message: 
+Processing row : 721for +94764136603 Message Failed Due to Message: 
+Processing row : 722for +94715890097 Message Failed Due to Message: 
+Processing row : 723for +94719661418 Message Failed Due to Message: 
+Processing row : 724for +94713107424 Message Failed Due to Message: 
+Processing row : 725for +94716893128 Message Failed Due to Message: 
+Processing row : 726for +94772108540 Message Failed Due to Message: 
+Processing row : 727for +94775943659 Message Failed Due to Message: 
+Processing row : 728for +94714555513 Message Failed Due to Message: 
+Processing row : 729for +94https://mathtutory.com Message Failed Due to Message: 
+Processing row : 730for +94715270267 Message Failed Due to Message: 
+Processing row : 731for +94773172419 Message Failed Due to Message: 
+Processing row : 732for +94756947033 Message Failed Due to Message: 
+Processing row : 733Processing row : 734Processing row : 735for +94https://www.facebook.com/Maths-Class-105197167762623/?modal=admin_todo_tour Message Failed Due to Message: 
+Processing row : 736Processing row : 737for +94767112021 Message Failed Due to Message: 
+Processing row : 738for +94771241585 Message Failed Due to Message: 
+Processing row : 739Processing row : 740Processing row : 741Processing row : 742Processing row : 743Processing row : 744Processing row : 745Processing row : 746Processing row : 747Processing row : 748for +94763292441 Message Failed Due to Message: 
+Processing row : 749Processing row : 750Processing row : 751for +94770211272 Message Failed Due to Message: 
+Processing row : 752Processing row : 753Processing row : 754for +94714414587 Message Failed Due to Message: 
+Processing row : 755Processing row : 756for +94762572230 Message Failed Due to Message: 
+Processing row : 757for +94773862491 Message Failed Due to Message: 
+Processing row : 758Processing row : 759Processing row : 760Processing row : 761Processing row : 762Processing row : 763for +94720114582 Message Failed Due to Message: 
+Processing row : 764Processing row : 765Processing row : 766Processing row : 767for +94775985419 Message Failed Due to Message: 
+Processing row : 768Processing row : 769for +94011276086 Message Failed Due to Message: 
+Processing row : 770Processing row : 771Processing row : 772Processing row : 773Processing row : 774Processing row : 775Processing row : 776Processing row : 777Processing row : 778for +94772687877 Message Failed Due to Message: 
+Processing row : 779Processing row : 780Processing row : 781for +94717687983 Message Failed Due to Message: 
+Processing row : 782Processing row : 783Processing row : 784for +94https://www.youtube.com/channel/UC_oBBckkaMPR65F07BgFggg?view_as=subscriber Message Failed Due to Message: 
+Processing row : 785Processing row : 786Processing row : 787for +94752906802 Message Failed Due to Message: 
+Processing row : 788for +94715637937 Message Failed Due to Message: 
+Processing row : 789for +94710541546 Message Failed Due to Message: 
+Processing row : 790for +94776232248 Message Failed Due to Message: 
+Processing row : 791for +94765403199 Message Failed Due to Message: 
+Processing row : 792for +94710504800 Message Failed Due to Message: 
+Processing row : 793for +94777608436 Message Failed Due to Message: 
+Processing row : 794for +94786603211 Message Failed Due to Message: 
+Processing row : 795for +94713601055 Message Failed Due to Message: 
+Processing row : 796for +94715107428 Message Failed Due to Message: 
+Processing row : 797for +94[] Message Failed Due to Message: 
+Processing row : 798for +94776939199 Message Failed Due to Message: 
+Processing row : 799for +94768148174 Message Failed Due to Message: 
+Processing row : 800for +94713915365 Message Failed Due to Message: 
+Processing row : 801for +94766571258 Message Failed Due to Message: 
+Processing row : 802for +94776000395 Message Failed Due to Message: 
+Processing row : 803for +94705510768 Message Failed Due to Message: 
+Processing row : 804for +94710640415 Message Failed Due to Message: 
+Processing row : 805for +94714167810 Message Failed Due to Message: 
+Processing row : 806for +94713233060 Message Failed Due to Message: 
+Processing row : 807for +94711618016 Message Failed Due to Message: 
+Processing row : 808for +94772484100 Message Failed Due to Message: 
+Processing row : 809for +94717456580 Message Failed Due to Message: 
+Processing row : 810for +94765596108 Message Failed Due to Message: 
+Processing row : 811for +94711109750 Message Failed Due to Message: 
+Processing row : 812for +94761601233 Message Failed Due to Message: 
+Processing row : 813for +94717128951 Message Failed Due to Message: 
+Processing row : 814for +94768017704 Message Failed Due to Message: 
+Processing row : 815for +94750912315 Message Failed Due to Message: 
+Processing row : 816for +94710678226 Message Failed Due to Message: 
+Processing row : 817Processing row : 818for +94766347636 Message Failed Due to Message: 
+Processing row : 819for +94754250307 Message Failed Due to Message: 
+Processing row : 820for +94112706086 Message Failed Due to Message: 
+Processing row : 821Processing row : 822Processing row : 823Processing row : 824for +94773190371 Message Failed Due to Message: 
+Processing row : 825Processing row : 826Processing row : 827for +94786430254 Message Failed Due to Message: 
+Processing row : 828Processing row : 829Processing row : 830for +94750871806 Message Failed Due to Message: 
+Processing row : 831for +94[] Message Failed Due to Message: 
+Processing row : 832Processing row : 833for +94https://www.facebook.com/chemistryMadeSimple/ Message Failed Due to Message: 
+Processing row : 834Processing row : 835for +94768447345 Message Failed Due to Message: 
+Processing row : 836Processing row : 837Processing row : 838Processing row : 839Processing row : 840Processing row : 841for +94703626943 Message Failed Due to Message: 
+Processing row : 842Processing row : 843Processing row : 844for +94776053634 Message Failed Due to Message: 
+Processing row : 845Processing row : 846Processing row : 847for +94383395935 Message Failed Due to Message: 
+Processing row : 848Processing row : 849Processing row : 850for +94716091277 Message Failed Due to Message: 
+Processing row : 851for +94714173750 Message Failed Due to Message: 
+Processing row : 852for +94766877111 Message Failed Due to Message: 
+Processing row : 853for +94773381457 Message Failed Due to Message: 
+Processing row : 854for +94778336862 Message Failed Due to Message: 
+Processing row : 855for +94http://www.aziie.lk Message Failed Due to Message: 
+Processing row : 856for +94773980799 Message Failed Due to Message: 
+Processing row : 857for +94779876928 Message Failed Due to Message: 
+Processing row : 858for +94702989509 Message Failed Due to Message: 
+Processing row : 859for +94762509111 Message Failed Due to Message: 
+Processing row : 860for +94704371184 Message Failed Due to Message: 
+Processing row : 861for +94712829253 Message Failed Due to Message: 
+Processing row : 862for +94713144405 Message Failed Due to Message: 
+Processing row : 863for +94714613636 Message Failed Due to Message: 
+Processing row : 864for +94773942637 Message Failed Due to Message: 
+Processing row : 865for +94771801495 Message Failed Due to Message: 
+Processing row : 866for +94716090274 Message Failed Due to Message: 
+Processing row : 867for +94768125106 Message Failed Due to Message: 
+Processing row : 868for +94718930874 Message Failed Due to Message: 
+Processing row : 869for +94778063115 Message Failed Due to Message: 
+Processing row : 870for +94716674535 Message Failed Due to Message: 
+Processing row : 871for +94771457291 Message Failed Due to Message: 
+Processing row : 872for +94779814764 Message Failed Due to Message: 
+Processing row : 873for +94https://economics-class-edexcel-cambridge.business.site/?utm_source=gmb&utm_medium=referral Message Failed Due to Message: 
+Processing row : 874for +94716987728 Message Failed Due to Message: 
+Processing row : 875for +94728824497 Message Failed Due to Message: 
+Processing row : 876for +94719410644 Message Failed Due to Message: 
+Processing row : 877for +94772393305 Message Failed Due to Message: 
+Processing row : 878for +94713052678 Message Failed Due to Message: 
+Processing row : 879for +94778537993 Message Failed Due to Message: 
+Processing row : 880for +94717778238 Message Failed Due to Message: 
+Processing row : 881for +94767048814 Message Failed Due to Message: 
+Processing row : 882for +94714609860 Message Failed Due to Message: 
+Processing row : 883for +94332248712 Message Failed Due to Message: 
+Processing row : 884for +94778622274 Message Failed Due to Message: 
+Processing row : 885for +94112948120 Message Failed Due to Message: 
+Processing row : 886for +94710620081 Message Failed Due to Message: 
+Processing row : 887for +94768508227 Message Failed Due to Message: 
+Processing row : 888for +94778694739 Message Failed Due to Message: 
+Processing row : 889for +94711915907 Message Failed Due to Message: 
+Processing row : 890for +94719192351 Message Failed Due to Message: 
+Processing row : 891for +94711475282 Message Failed Due to Message: 
+Processing row : 892for +94776941655 Message Failed Due to Message: 
+Processing row : 893for +94777252138 Message Failed Due to Message: 
+Processing row : 894Processing row : 895Processing row : 896for +94776749889 Message Failed Due to Message: 
+Processing row : 897Processing row : 898for +94712808595 Message Failed Due to Message: 
+Processing row : 899for +94715874939 Message Failed Due to Message: 
+Processing row : 900for +94112538091 Message Failed Due to Message: 
+Processing row : 901Processing row : 902Processing row : 903Processing row : 904for +94776622700 Message Failed Due to Message: 
+Processing row : 905Processing row : 906Processing row : 907for +94760170172 Message Failed Due to Message: 
+Processing row : 908for +94753552453 Message Failed Due to Message: 
+Processing row : 909Processing row : 910Processing row : 911Processing row : 912for +94716677064 Message Failed Due to Message: 
+Processing row : 913Processing row : 914for +94774039289 Message Failed Due to Message: 
+Processing row : 915for +94[] Message Failed Due to Message: 
+Processing row : 916for +94https://www.researchgate.net/profile/Prasanga_Mantilaka3 Message Failed Due to Message: 
+Processing row : 917for +94772534353 Message Failed Due to Message: 
+Processing row : 918for +94754046135 Message Failed Due to Message: 
+Processing row : 919Processing row : 920Processing row : 921Processing row : 922Processing row : 923for +94https://www.thingerbits.com Message Failed Due to Message: 
+Processing row : 924Processing row : 925Processing row : 926for +94714227777 Message Failed Due to Message: 
+Processing row : 927for +94710949232 Message Failed Due to Message: 
+Processing row : 928for +94711005799 Message Failed Due to Message: 
+Processing row : 929Processing row : 930Processing row : 931Processing row : 932for +94112817681 Message Failed Due to Message: 
+Processing row : 933Processing row : 934for +94https://tutoronlk.com/ Message Failed Due to Message: 
+Processing row : 935for +94778085882 Message Failed Due to Message: 
+Processing row : 936Processing row : 937Processing row : 938Processing row : 939Processing row : 940Processing row : 941Processing row : 942Processing row : 943Processing row : 944Processing row : 945for +94783089246 Message Failed Due to Message: 
+Processing row : 946Processing row : 947Processing row : 948for +94http://sandun.dev Message Failed Due to Message: 
+Processing row : 949Processing row : 950for +94[] Message Failed Due to Message: 
+Processing row : 951for +94342249655 Message Failed Due to Message: 
+Processing row : 952for +94753355575 Message Failed Due to Message: 
+Processing row : 953Processing row : 954Processing row : 955Processing row : 956Processing row : 957Processing row : 958Processing row : 959for +94704143688 Message Failed Due to Message: 
+Processing row : 960for +94[] Message Failed Due to Message: 
+Processing row : 961for +94774146117 Message Failed Due to Message: 
+Processing row : 962Processing row : 963Processing row : 964Processing row : 965Processing row : 966Processing row : 967for +94715890693 Message Failed Due to Message: 
+Processing row : 968for +94779260081 Message Failed Due to Message: 
+Processing row : 969Processing row : 970for +94715864371 Message Failed Due to Message: 
+Processing row : 971Processing row : 972Processing row : 973Processing row : 974for +94718690793 Message Failed Due to Message: 
+Processing row : 975for +94724454075 Message Failed Due to Message: 
+Processing row : 976Processing row : 977for +94712169321 Message Failed Due to Message: 
+Processing row : 978Processing row : 979Processing row : 980for +94719250325 Message Failed Due to Message: 
+Processing row : 981for +94717168044 Message Failed Due to Message: 
+Processing row : 982for +94777927945 Message Failed Due to Message: 
+Processing row : 983Processing row : 984for +94766535325 Message Failed Due to Message: 
+Processing row : 985Processing row : 986Processing row : 987Processing row : 988for +94https://www.facebook.com/pg/nextgensmartadademy/ Message Failed Due to Message: 
+Processing row : 989Processing row : 990Processing row : 991Processing row : 992for +94713872408 Message Failed Due to Message: 
+Processing row : 993for +94719810949 Message Failed Due to Message: 
+Processing row : 994for +94775895079 Message Failed Due to Message: 
+Processing row : 995for +94771466602 Message Failed Due to Message: 
+Processing row : 996for +94701570891 Message Failed Due to Message: 
+Processing row : 997for +94https://www.facebook.com/arunanishantha7 Message Failed Due to Message: 
+Processing row : 998for +94765368065 Message Failed Due to Message: 
+Processing row : 999for +94773014038 Message Failed Due to Message: 
+Processing row : 1000for +94711539589 Message Failed Due to Message: 
+Processing row : 1001for +94https://www.facebook.com/tuition4londonpsychology Message Failed Due to Message: 
+Processing row : 1002for +94772935701 Message Failed Due to Message: 
+Processing row : 1003for +94775005628 Message Failed Due to Message: 
+Processing row : 1004for +94714334995 Message Failed Due to Message: 
+Processing row : 1005for +94772270399 Message Failed Due to Message: 
+Processing row : 1006for +94778787267 Message Failed Due to Message: 
+Processing row : 1007for +94787307612 Message Failed Due to Message: 
+Processing row : 1008for +94717928400 Message Failed Due to Message: 
+Processing row : 1009for +94772255827 Message Failed Due to Message: 
+Processing row : 1010for +94777916696 Message Failed Due to Message: 
+Processing row : 1011for +94773490607 Message Failed Due to Message: 
+Processing row : 1012for +94777306565 Message Failed Due to Message: 
+Processing row : 1013for +94753588488 Message Failed Due to Message: 
+Processing row : 1014for +94715774551 Message Failed Due to Message: 
+Processing row : 1015for +94728279667 Message Failed Due to Message: 
+Processing row : 1016for +94788144265 Message Failed Due to Message: 
+Processing row : 1017for +94715511489 Message Failed Due to Message: 
+Processing row : 1018for +94705272410 Message Failed Due to Message: 
+Processing row : 1019for +94718920661 Message Failed Due to Message: 
+Processing row : 1020for +94755073674 Message Failed Due to Message: 
+Processing row : 1021for +94712771149 Message Failed Due to Message: 
+Processing row : 1022for +94767709478 Message Failed Due to Message: 
+Processing row : 1023for +94719566756 Message Failed Due to Message: 
+Processing row : 1024for +94772440087 Message Failed Due to Message: 
+Processing row : 1025for +94773371717 Message Failed Due to Message: 
+Processing row : 1026for +94716300080 Message Failed Due to Message: 
+Processing row : 1027for +94761427474 Message Failed Due to Message: 
+Processing row : 1028for +94750676828 Message Failed Due to Message: 
+Processing row : 1029for +94777490539 Message Failed Due to Message: 
+Processing row : 1030for +94717423412 Message Failed Due to Message: 
+Processing row : 1031for +94776686074 Message Failed Due to Message: 
+Processing row : 1032for +94http://www.etal.yolasite.com/ Message Failed Due to Message: 
+Processing row : 1033for +94714434763 Message Failed Due to Message: 
+Processing row : 1034for +94711739236 Message Failed Due to Message: 
+Processing row : 1035for +94702514839 Message Failed Due to Message: 
+Processing row : 1036for +94768633523 Message Failed Due to Message: 
+Processing row : 1037for +94752882380 Message Failed Due to Message: 
+Processing row : 1038for +94763067289 Message Failed Due to Message: 
+Processing row : 1039for +94112884339 Message Failed Due to Message: 
+Processing row : 1040for +94715852807 Message Failed Due to Message: 
+Processing row : 1041for +94714102030 Message Failed Due to Message: 
+Processing row : 1042for +94761408002 Message Failed Due to Message: 
+Processing row : 1043for +94714497268 Message Failed Due to Message: 
+Processing row : 1044for +94710674504 Message Failed Due to Message: 
+Processing row : 1045for +94774038444 Message Failed Due to Message: 
+Processing row : 1046for +94703883422 Message Failed Due to Message: 
+Processing row : 1047for +94767862049 Message Failed Due to Message: 
+Processing row : 1048for +94714565224 Message Failed Due to Message: 
+Processing row : 1049for +94771941904 Message Failed Due to Message: 
+Processing row : 1050for +94717072645 Message Failed Due to Message: 
+Processing row : 1051for +94714267124 Message Failed Due to Message: 
+Processing row : 1052for +94715533773 Message Failed Due to Message: 
+Processing row : 1053for +94752774250 Message Failed Due to Message: 
+Processing row : 1054for +94773830327 Message Failed Due to Message: 
+Processing row : 1055for +94076 7121784 Message Failed Due to Message: 
+Processing row : 1056Processing row : 1057Processing row : 1058Processing row : 1059for +94719080160 Message Failed Due to Message: 
+Processing row : 1060Processing row : 1061Processing row : 1062for +94112562241 Message Failed Due to Message: 
+Processing row : 1063Processing row : 1064for +94769111631 Message Failed Due to Message: 
+Processing row : 1065Processing row : 1066Processing row : 1067for +94770274374 Message Failed Due to Message: 
+Processing row : 1068for +94https://www.facebook.com/educluster/ Message Failed Due to Message: 
+Processing row : 1069for +94704697019 Message Failed Due to Message: 
+Processing row : 1070for +94773751651 Message Failed Due to Message: 
+Processing row : 1071for +94779460979 Message Failed Due to Message: 
+Processing row : 1072for +94769043833 Message Failed Due to Message: 
+Processing row : 1073for +94703592504 Message Failed Due to Message: 
+Processing row : 1074for +94720339823 Message Failed Due to Message: 
+Processing row : 1075for +94778215110 Message Failed Due to Message: 
+Processing row : 1076for +94777823146 Message Failed Due to Message: 
+Processing row : 1077for +94https://www.linkedin.com/in/mawantha-dilshan-522274187/ Message Failed Due to Message: 
+Processing row : 1078for +94717902235 Message Failed Due to Message: 
+Processing row : 1079for +94https://www.facebook.com/Tech-Doctor-Colombo-113213593392066/ Message Failed Due to Message: 
+Processing row : 1080for +94771393638 Message Failed Due to Message: 
+Processing row : 1081for +94714861944 Message Failed Due to Message: 
+Processing row : 1082for +94767451852 Message Failed Due to Message: 
+Processing row : 1083for +94763940411 Message Failed Due to Message: 
+Processing row : 1084for +94778219887 Message Failed Due to Message: 
+Processing row : 1085for +94711539589 Message Failed Due to Message: 
+Processing row : 1086for +94757472756 Message Failed Due to Message: 
+Processing row : 1087for +94776526575 Message Failed Due to Message: 
+Processing row : 1088for +94342240062 Message Failed Due to Message: 
+Processing row : 1089for +94757722974 Message Failed Due to Message: 
+Processing row : 1090for +94711902642 Message Failed Due to Message: 
+Processing row : 1091for +94777132212 Message Failed Due to Message: 
+Processing row : 1092for +94716021757 Message Failed Due to Message: 
+Processing row : 1093for +94704888179 Message Failed Due to Message: 
+Processing row : 1094for +94765274245 Message Failed Due to Message: 
+Processing row : 1095for +94711134225 Message Failed Due to Message: 
+Processing row : 1096for +94717418495 Message Failed Due to Message: 
+Processing row : 1097for +94[] Message Failed Due to Message: 
+Processing row : 1098for +94771419065 Message Failed Due to Message: 
+Processing row : 1099for +94712990397 Message Failed Due to Message: 
+Processing row : 1100for +94702592704 Message Failed Due to Message: 
+Processing row : 1101for +94112724960 Message Failed Due to Message: 
+Processing row : 1102for +94770565616 Message Failed Due to Message: 
+Processing row : 1103for +94788390113 Message Failed Due to Message: 
+Processing row : 1104for +94715800665 Message Failed Due to Message: 
+Processing row : 1105for +94713612801 Message Failed Due to Message: 
+Processing row : 1106for +94777040552 Message Failed Due to Message: 
+Processing row : 1107for +94710310505 Message Failed Due to Message: 
+Processing row : 1108for +94718495713 Message Failed Due to Message: 
+Processing row : 1109for +94714317276 Message Failed Due to Message: 
+Processing row : 1110for +94https://www.linkedin.com/in/devinyasassirinama Message Failed Due to Message: 
+Processing row : 1111for +94715310654 Message Failed Due to Message: 
+Processing row : 1112for +94http://www.accountingwithcharaka.weebly.com Message Failed Due to Message: 
+Processing row : 1113for +94112747428 Message Failed Due to Message: 
+Processing row : 1114for +94775911115 Message Failed Due to Message: 
+Processing row : 1115for +94070-2559669 Message Failed Due to Message: 
+Processing row : 1116for +94725183548 Message Failed Due to Message: 
+Processing row : 1117for +94777274816 Message Failed Due to Message: 
+Processing row : 1118for +94715946560 Message Failed Due to Message: 
+Processing row : 1119for +94711027463 Message Failed Due to Message: 
+Processing row : 1120for +94717066824 Message Failed Due to Message: 
+Processing row : 1121for +94778982813 Message Failed Due to Message: 
+Processing row : 1122for +94781593384 Message Failed Due to Message: 
+Processing row : 1123for +94776051064 Message Failed Due to Message: 
+Processing row : 1124for +94713033157 Message Failed Due to Message: 
+Processing row : 1125for +94788384622 Message Failed Due to Message: 
+Processing row : 1126for +94771158439 Message Failed Due to Message: 
+Processing row : 1127for +94776617090 Message Failed Due to Message: 
+Processing row : 1128Processing row : 1129for +94711448331 Message Failed Due to Message: 
+Processing row : 1130for +94702717856 Message Failed Due to Message: 
+Processing row : 1131for +94112809774 Message Failed Due to Message: 
+Processing row : 1132Processing row : 1133Processing row : 1134for +94https://ikman.lk/en/ad/opportunity-for-accounting-students-for-sale-colombo-9 Message Failed Due to Message: 
+Processing row : 1135Processing row : 1136Processing row : 1137Processing row : 1138Processing row : 1139Processing row : 1140Processing row : 1141for +94705137075 Message Failed Due to Message: 
+Processing row : 1142Processing row : 1143for +94771670632 Message Failed Due to Message: 
+Processing row : 1144for +94http://www.networklanka.com Message Failed Due to Message: 
+Processing row : 1145Processing row : 1146Processing row : 1147for +94759432594 Message Failed Due to Message: 
+Processing row : 1148for +94112923954 Message Failed Due to Message: 
+Processing row : 1149for +94773685038 Message Failed Due to Message: 
+Processing row : 1150for +94112677474 Message Failed Due to Message: 
+Processing row : 1151Processing row : 1152for +94912276139 Message Failed Due to Message: 
+Processing row : 1153Processing row : 1154Processing row : 1155for +94719604243 Message Failed Due to Message: 
+Processing row : 1156Processing row : 1157for +94713601854 Message Failed Due to Message: 
+Processing row : 1158Processing row : 1159Processing row : 1160Processing row : 1161Processing row : 1162Processing row : 1163for +94774353425 Message Failed Due to Message: 
+Processing row : 1164Processing row : 1165for +94http://www.interlanguesedu.com Message Failed Due to Message: 
+Processing row : 1166for +94789913151 Message Failed Due to Message: 
+Processing row : 1167Processing row : 1168Processing row : 1169Processing row : 1170Processing row : 1171Processing row : 1172Processing row : 1173Processing row : 1174Processing row : 1175Processing row : 1176Processing row : 1177for +94758137001 Message Failed Due to Message: 
+Processing row : 1178for +94719611885 Message Failed Due to Message: 
+Processing row : 1179Processing row : 1180Processing row : 1181for +94715117273 Message Failed Due to Message: 
+Processing row : 1182for +94766371818 Message Failed Due to Message: 
+Processing row : 1183Processing row : 1184for +94716902545 Message Failed Due to Message: 
+Processing row : 1185for +94718728818 Message Failed Due to Message: 
+Processing row : 1186for +94https://www.facebook.com/MathsInternationalSchoolsSriLanka/ Message Failed Due to Message: 
+Processing row : 1187for +94774783525 Message Failed Due to Message: 
+Processing row : 1188Processing row : 1189Processing row : 1190for +94779556807 Message Failed Due to Message: 
+Processing row : 1191for +94768014959 Message Failed Due to Message: 
+Processing row : 1192for +94717948150 Message Failed Due to Message: 
+Processing row : 1193for +94766412982 Message Failed Due to Message: 
+Processing row : 1194for +94710383820 Message Failed Due to Message: 
+Processing row : 1195for +94764360356 Message Failed Due to Message: 
+Processing row : 1196for +94710834579 Message Failed Due to Message: 
+Processing row : 1197for +94778206950 Message Failed Due to Message: 
+Processing row : 1198for +94772380147 Message Failed Due to Message: 
+Processing row : 1199for +94714276651 Message Failed Due to Message: 
+Processing row : 1200for +94715669855 Message Failed Due to Message: 
+Processing row : 1201for +94https://www.youtube.com/PhysicsSimplified Message Failed Due to Message: 
+Processing row : 1202for +94701714402 Message Failed Due to Message: 
+Processing row : 1203for +94777749154 Message Failed Due to Message: 
+Processing row : 1204for +94777132060 Message Failed Due to Message: 
+Processing row : 1205for +9403122255855 Message Failed Due to Message: 
+Processing row : 1206for +94783205390 Message Failed Due to Message: 
+Processing row : 1207for +94764634052 Message Failed Due to Message: 
+Processing row : 1208for +94704329855 Message Failed Due to Message: 
+Processing row : 1209for +94703629187 Message Failed Due to Message: 
+Processing row : 1210for +94776471119 Message Failed Due to Message: 
+Processing row : 1211for +94778568302 Message Failed Due to Message: 
+Processing row : 1212Processing row : 1213Processing row : 1214Processing row : 1215for +94758347937 Message Failed Due to Message: 
+Processing row : 1216for +94711722910 Message Failed Due to Message: 
+Processing row : 1217Processing row : 1218for +94112752174 Message Failed Due to Message: 
+Processing row : 1219Processing row : 1220for +94756411009 Message Failed Due to Message: 
+Processing row : 1221Processing row : 1222for +94773557503 Message Failed Due to Message: 
+Processing row : 1223Processing row : 1224for +94771177763 Message Failed Due to Message: 
+Processing row : 1225for +94778982053 Message Failed Due to Message: 
+Processing row : 1226for +94776689969 Message Failed Due to Message: 
+Processing row : 1227for +94773842844 Message Failed Due to Message: 
+Processing row : 1228for +94768616803 Message Failed Due to Message: 
+Processing row : 1229for +94https://www.facebook.com/thilinamahathelge/ Message Failed Due to Message: 
+Processing row : 1230for +94712874106 Message Failed Due to Message: 
+Processing row : 1231for +94762995854 Message Failed Due to Message: 
+Processing row : 1232for +94701172723 Message Failed Due to Message: 
+Processing row : 1233for +94711690745 Message Failed Due to Message: 
+Processing row : 1234for +94718774499 Message Failed Due to Message: 
+Processing row : 1235for +94702114523 Message Failed Due to Message: 
+Processing row : 1236for +94112615691 Message Failed Due to Message: 
+Processing row : 1237for +94716145409 Message Failed Due to Message: 
+Processing row : 1238for +94768118407 Message Failed Due to Message: 
+Processing row : 1239for +94773337614 Message Failed Due to Message: 
+Processing row : 1240for +94715142990 Message Failed Due to Message: 
+Processing row : 1241for +94778536269 Message Failed Due to Message: 
+Processing row : 1242for +94774808780 Message Failed Due to Message: 
+Processing row : 1243for +94776264009 Message Failed Due to Message: 
+Processing row : 1244for +94756555825 Message Failed Due to Message: 
+Processing row : 1245for +94717667615 Message Failed Due to Message: 
+Processing row : 1246for +94711069469 Message Failed Due to Message: 
+Processing row : 1247for +94714118142 Message Failed Due to Message: 
+Processing row : 1248for +94776636433 Message Failed Due to Message: 
+Processing row : 1249for +94715796066 Message Failed Due to Message: 
+Processing row : 1250for +94717793677 Message Failed Due to Message: 
+Processing row : 1251for +94773185108 Message Failed Due to Message: 
+Processing row : 1252for +94762343966 Message Failed Due to Message: 
+Processing row : 1253for +94770372121 Message Failed Due to Message: 
+Processing row : 1254for +94719096125 Message Failed Due to Message: 
+Processing row : 1255for +94711256124 Message Failed Due to Message: 
+Processing row : 1256for +94755754824 Message Failed Due to Message: 
+Processing row : 1257for +94[] Message Failed Due to Message: 
+Processing row : 1258for +94710955434 Message Failed Due to Message: 
+Processing row : 1259for +94715426469 Message Failed Due to Message: 
+Processing row : 1260for +94771138238 Message Failed Due to Message: 
+Processing row : 1261for +94342279749 Message Failed Due to Message: 
+Processing row : 1262for +94711066282 Message Failed Due to Message: 
+Processing row : 1263for +94772613684 Message Failed Due to Message: 
+Processing row : 1264for +94716620292 Message Failed Due to Message: 
+Processing row : 1265for +94https://www.ashenm.ml Message Failed Due to Message: 
+Processing row : 1266for +94312246503 Message Failed Due to Message: 
+Processing row : 1267for +94701550805 Message Failed Due to Message: 
+Processing row : 1268for +94767333610 Message Failed Due to Message: 
+Processing row : 1269for +94775808241 Message Failed Due to Message: 
+Processing row : 1270for +94776405893 Message Failed Due to Message: 
+Processing row : 1271for +94https://www.facebook.com/BAcademySL/ Message Failed Due to Message: 
+Processing row : 1272for +94777316123 Message Failed Due to Message: 
+Processing row : 1273for +94711090333 Message Failed Due to Message: 
+Processing row : 1274for +94762145666 Message Failed Due to Message: 
+Processing row : 1275for +94770595364 Message Failed Due to Message: 
+Processing row : 1276for +94711155275 Message Failed Due to Message: 
+Processing row : 1277for +94753275164 Message Failed Due to Message: 
+Processing row : 1278for +94704535777 Message Failed Due to Message: 
+Processing row : 1279for +94112717418 Message Failed Due to Message: 
+Processing row : 1280for +94718652050 Message Failed Due to Message: 
+Processing row : 1281for +94705539419 Message Failed Due to Message: 
+Processing row : 1282for +94779582246 Message Failed Due to Message: 
+Processing row : 1283Processing row : 1284for +94721615790 Message Failed Due to Message: 
+Processing row : 1285for +94112975148 Message Failed Due to Message: 
+Processing row : 1286Processing row : 1287for +94760196065 Message Failed Due to Message: 
+Processing row : 1288Processing row : 1289Processing row : 1290for +94http://masterict.lk/ Message Failed Due to Message: 
+Processing row : 1291for +94771449738 Message Failed Due to Message: 
+Processing row : 1292Processing row : 1293for +94766698171 Message Failed Due to Message: 
+Processing row : 1294Processing row : 1295for +94702228086 Message Failed Due to Message: 
+Processing row : 1296Processing row : 1297for +94717438592 Message Failed Due to Message: 
+Processing row : 1298Processing row : 1299for +94773331221 Message Failed Due to Message: 
+Processing row : 1300Processing row : 1301for +94755841744 Message Failed Due to Message: 
+Processing row : 1302Processing row : 1303for +94112884026 Message Failed Due to Message: 
+Processing row : 1304Processing row : 1305Processing row : 1306Processing row : 1307Processing row : 1308for +94https://www.facebook.com/academicmind/ Message Failed Due to Message: 
+Processing row : 1309Processing row : 1310Processing row : 1311for +94718297001 Message Failed Due to Message: 
+Processing row : 1312Processing row : 1313Processing row : 1314Processing row : 1315Processing row : 1316Processing row : 1317for +94777337984 Message Failed Due to Message: 
+Processing row : 1318Processing row : 1319Processing row : 1320Processing row : 1321Processing row : 1322Processing row : 1323for +94770302875 Message Failed Due to Message: 
+Processing row : 1324for +94115926551 Message Failed Due to Message: 
+Processing row : 1325Processing row : 1326Processing row : 1327Processing row : 1328Processing row : 1329for +94711752999 Message Failed Due to Message: 
+Processing row : 1330Processing row : 1331Processing row : 1332for +94252057463 Message Failed Due to Message: 
+Processing row : 1333for +94725151207 Message Failed Due to Message: 
+Processing row : 1334for +94777780134 Message Failed Due to Message: 
+Processing row : 1335Processing row : 1336Processing row : 1337Processing row : 1338Processing row : 1339Processing row : 1340Processing row : 1341Processing row : 1342for +94778330266 Message Failed Due to Message: 
+Processing row : 1343for +94718905282 Message Failed Due to Message: 
+Processing row : 1344Processing row : 1345for +94705247147 Message Failed Due to Message: 
+Processing row : 1346for +94702085201 Message Failed Due to Message: 
+Processing row : 1347Processing row : 1348for +94773997246 Message Failed Due to Message: 
+Processing row : 1349for +94715413691 Message Failed Due to Message: 
+Processing row : 1350for +94779834243 Message Failed Due to Message: 
+Processing row : 1351for +94766614270 Message Failed Due to Message: 
+Processing row : 1352for +94766296229 Message Failed Due to Message: 
+Processing row : 1353for +94779001244 Message Failed Due to Message: 
+Processing row : 1354for +94757242632 Message Failed Due to Message: 
+Processing row : 1355for +94778073205 Message Failed Due to Message: 
+Processing row : 1356for +94758170565 Message Failed Due to Message: 
+Processing row : 1357for +94https://al-chemistry-biology-and-ict-tuition-classes.business.site/?hl=en Message Failed Due to Message: 
+Processing row : 1358for +94717859323 Message Failed Due to Message: 
+Processing row : 1359for +94710512131 Message Failed Due to Message: 
+Processing row : 1360for +94717204285 Message Failed Due to Message: 
+Processing row : 1361for +94715586756 Message Failed Due to Message: 
+Processing row : 1362for +94721211466 Message Failed Due to Message: 
+Processing row : 1363for +94773411900 Message Failed Due to Message: 
+Processing row : 1364for +94717424284 Message Failed Due to Message: 
+Processing row : 1365for +94783703111 Message Failed Due to Message: 
+Processing row : 1366Processing row : 1367for +94718899610 Message Failed Due to Message: 
+Processing row : 1368for +94[] Message Failed Due to Message: 
+Processing row : 1369Processing row : 1370Processing row : 1371Processing row : 1372Processing row : 1373Processing row : 1374for +94772337321 Message Failed Due to Message: 
+Processing row : 1375for +94773201217 Message Failed Due to Message: 
+Processing row : 1376Processing row : 1377Processing row : 1378for +94752933687 Message Failed Due to Message: 
+Processing row : 1379for +94715468108 Message Failed Due to Message: 
+Processing row : 1380for +94714055614 Message Failed Due to Message: 
+Processing row : 1381for +94https://www.facebook.com/GlobalStudentLK Message Failed Due to Message: 
+Processing row : 1382for +94766209516 Message Failed Due to Message: 
+Processing row : 1383for +94https://www.facebook.com/miracleenglishinstitute Message Failed Due to Message: 
+Processing row : 1384for +94772265955 Message Failed Due to Message: 
+Processing row : 1385for +94771179090 Message Failed Due to Message: 
+Processing row : 1386for +94704427908 Message Failed Due to Message: 
+Processing row : 1387for +94718302564 Message Failed Due to Message: 
+Processing row : 1388for +94764177604 Message Failed Due to Message: 
+Processing row : 1389for +94011-2538664 Message Failed Due to Message: 
+Processing row : 1390for +94776284116 Message Failed Due to Message: 
+Processing row : 1391for +94714311080 Message Failed Due to Message: 
+Processing row : 1392for +94712317643 Message Failed Due to Message: 
+Processing row : 1393for +94777665817 Message Failed Due to Message: 
+Processing row : 1394for +94759629297 Message Failed Due to Message: 
+Processing row : 1395for +94719408036 Message Failed Due to Message: 
+Processing row : 1396for +94777736564 Message Failed Due to Message: 
+Processing row : 1397for +94766672388 Message Failed Due to Message: 
+Processing row : 1398for +94775503443 Message Failed Due to Message: 
+Processing row : 1399for +94773169955 Message Failed Due to Message: 
+Processing row : 1400for +94772356988 Message Failed Due to Message: 
+Processing row : 1401for +94702989892 Message Failed Due to Message: 
+Processing row : 1402for +94773279695 Message Failed Due to Message: 
+Processing row : 1403for +94714953347 Message Failed Due to Message: 
+Processing row : 1404for +94784545066 Message Failed Due to Message: 
+Processing row : 1405for +94774264245 Message Failed Due to Message: 
+Processing row : 1406for +94777806927 Message Failed Due to Message: 
+Processing row : 1407for +94779932172 Message Failed Due to Message: 
+Processing row : 1408for +94717915194 Message Failed Due to Message: 
+Processing row : 1409for +94773259303 Message Failed Due to Message: 
+Processing row : 1410for +94716001916 Message Failed Due to Message: 
+Processing row : 1411for +94766667313 Message Failed Due to Message: 
+Processing row : 1412for +94779588845 Message Failed Due to Message: 
+Processing row : 1413for +94763456836 Message Failed Due to Message: 
+Processing row : 1414for +94713465666 Message Failed Due to Message: 
+Processing row : 1415for +94764634345 Message Failed Due to Message: 
+Processing row : 1416for +94773170055 Message Failed Due to Message: 
+Processing row : 1417for +94773656425 Message Failed Due to Message: 
+Processing row : 1418for +94702178192 Message Failed Due to Message: 
+Processing row : 1419for +94717739910 Message Failed Due to Message: 
+Processing row : 1420for +94774610330 Message Failed Due to Message: 
+Processing row : 1421for +94112613099 Message Failed Due to Message: 
+Processing row : 1422for +94775561704 Message Failed Due to Message: 
+Processing row : 1423for +94718068013 Message Failed Due to Message: 
+Processing row : 1424for +94711177990 Message Failed Due to Message: 
+Processing row : 1425for +94767290048 Message Failed Due to Message: 
+Processing row : 1426for +94777559226 Message Failed Due to Message: 
+Processing row : 1427for +94777384070 Message Failed Due to Message: 
+Processing row : 1428for +94779505579 Message Failed Due to Message: 
+Processing row : 1429for +94777115134 Message Failed Due to Message: 
+Processing row : 1430for +94712415734 Message Failed Due to Message: 
+Processing row : 1431for +94712854083 Message Failed Due to Message: 
+Processing row : 1432for +94714047080 Message Failed Due to Message: 
+Processing row : 1433for +94716746530 Message Failed Due to Message: 
+Processing row : 1434for +94766543376 Message Failed Due to Message: 
+Processing row : 1435for +94717396364 Message Failed Due to Message: 
+Processing row : 1436for +94772847282 Message Failed Due to Message: 
+Processing row : 1437for +94779708348 Message Failed Due to Message: 
+Processing row : 1438Processing row : 1439Processing row : 1440Processing row : 1441for +94712095161 Message Failed Due to Message: 
+Processing row : 1442Processing row : 1443Processing row : 1444for +94715622276 Message Failed Due to Message: 
+Processing row : 1445for +94778359800 Message Failed Due to Message: 
+Processing row : 1446Processing row : 1447Processing row : 1448Processing row : 1449for +94711869425 Message Failed Due to Message: 
+Processing row : 1450for +94770852272 Message Failed Due to Message: 
+Processing row : 1451for +94702470557 Message Failed Due to Message: 
+Processing row : 1452for +94774389240 Message Failed Due to Message: 
+Processing row : 1453for +94770388167 Message Failed Due to Message: 
+Processing row : 1454for +94770481788 Message Failed Due to Message: 
+Processing row : 1455for +94https://minimiracleseducat.wixsite.com/edulk Message Failed Due to Message: 
+Processing row : 1456for +94765541454 Message Failed Due to Message: 
+Processing row : 1457for +94[] Message Failed Due to Message: 
+Processing row : 1458for +94712880197 Message Failed Due to Message: 
+Processing row : 1459for +94774650653 Message Failed Due to Message: 
+Processing row : 1460for +94777781217 Message Failed Due to Message: 
+Processing row : 1461for +9407765518663 Message Failed Due to Message: 
+Processing row : 1462for +94711249298 Message Failed Due to Message: 
+Processing row : 1463for +94776176909 Message Failed Due to Message: 
+Processing row : 1464for +94716336337 Message Failed Due to Message: 
+Processing row : 1465for +94715340238 Message Failed Due to Message: 
+Processing row : 1466for +94716823733 Message Failed Due to Message: 
+Processing row : 1467for +94777274547 Message Failed Due to Message: 
+Processing row : 1468for +94714432766 Message Failed Due to Message: 
+Processing row : 1469for +94717673411 Message Failed Due to Message: 
+Processing row : 1470for +94713435319 Message Failed Due to Message: 
+Processing row : 1471for +94777401528 Message Failed Due to Message: 
+Processing row : 1472for +94718792817 Message Failed Due to Message: 
+Processing row : 1473for +94713428688 Message Failed Due to Message: 
+Processing row : 1474for +94719417589 Message Failed Due to Message: 
+Processing row : 1475for +94http://www.stepway.lk Message Failed Due to Message: 
+Processing row : 1476for +94712172259 Message Failed Due to Message: 
+Processing row : 1477for +94777689376 Message Failed Due to Message: 
+Processing row : 1478for +94763631991 Message Failed Due to Message: 
+Processing row : 1479for +94717011063 Message Failed Due to Message: 
+Processing row : 1480for +94789635170 Message Failed Due to Message: 
+Processing row : 1481for +94312238547 Message Failed Due to Message: 
+Processing row : 1482for +94762360457 Message Failed Due to Message: 
+Processing row : 1483for +94771935113 Message Failed Due to Message: 
+Processing row : 1484for +94777600355 Message Failed Due to Message: 
+Processing row : 1485for +94758466837 Message Failed Due to Message: 
+Processing row : 1486for +94776157266 Message Failed Due to Message: 
+Processing row : 1487for +94112521138 Message Failed Due to Message: 
+Processing row : 1488for +94763311216 Message Failed Due to Message: 
+Processing row : 1489for +94715756450 Message Failed Due to Message: 
+Processing row : 1490for +94774533951 Message Failed Due to Message: 
+Processing row : 1491for +94[] Message Failed Due to Message: 
+Processing row : 1492for +94714398014 Message Failed Due to Message: 
+Processing row : 1493for +94705717310 Message Failed Due to Message: 
+Processing row : 1494for +94774072580 Message Failed Due to Message: 
+Processing row : 1495for +94774147165 Message Failed Due to Message: 
+Processing row : 1496for +94714037332 Message Failed Due to Message: 
+Processing row : 1497for +94784968883 Message Failed Due to Message: 
+Processing row : 1498for +94789776368 Message Failed Due to Message: 
+Processing row : 1499for +94770071106 Message Failed Due to Message: 
+Processing row : 1500for +94773998080 Message Failed Due to Message: 
+Processing row : 1501for +94717679856 Message Failed Due to Message: 
+Processing row : 1502for +94767014817 Message Failed Due to Message: 
+Processing row : 1503for +94770264421 Message Failed Due to Message: 
+Processing row : 1504for +94715399746 Message Failed Due to Message: 
+Processing row : 1505for +9407672440991 Message Failed Due to Message: 
+Processing row : 1506for +94772376195 Message Failed Due to Message: 
+Processing row : 1507for +94https://www.facebook.com/buddhika.karunarathne.988 Message Failed Due to Message: 
+Processing row : 1508for +94717671679 Message Failed Due to Message: 
+Processing row : 1509for +94775733407 Message Failed Due to Message: 
+Processing row : 1510for +94713994894 Message Failed Due to Message: 
+Processing row : 1511for +94715933656 Message Failed Due to Message: 
+Processing row : 1512for +94716885265 Message Failed Due to Message: 
+Processing row : 1513Processing row : 1514for +94312234464 Message Failed Due to Message: 
+Processing row : 1515for +94767068304 Message Failed Due to Message: 
+Processing row : 1516Processing row : 1517for +94766075752 Message Failed Due to Message: 
+Processing row : 1518for +94717065677 Message Failed Due to Message: 
+Processing row : 1519for +94759820083 Message Failed Due to Message: 
+Processing row : 1520Processing row : 1521for +94716671047 Message Failed Due to Message: 
+Processing row : 1522for +94764284426 Message Failed Due to Message: 
+Processing row : 1523for +94713539387 Message Failed Due to Message: 
+Processing row : 1524for +94711421229 Message Failed Due to Message: 
+Processing row : 1525for +94776331422 Message Failed Due to Message: 
+Processing row : 1526for +94771155494 Message Failed Due to Message: 
+Processing row : 1527for +94713401569 Message Failed Due to Message: 
+Processing row : 1528for +94768200127 Message Failed Due to Message: 
+Processing row : 1529for +94715615409 Message Failed Due to Message: 
+Processing row : 1530for +94http://www.thebiologist.lk Message Failed Due to Message: 
+Processing row : 1531for +94776641220 Message Failed Due to Message: 
+Processing row : 1532for +94714946327 Message Failed Due to Message: 
+Processing row : 1533for +94767988904 Message Failed Due to Message: 
+Processing row : 1534for +94716066444 Message Failed Due to Message: 
+Processing row : 1535for +94785778128 Message Failed Due to Message: 
+Processing row : 1536for +94770471854 Message Failed Due to Message: 
+Processing row : 1537for +94773111187 Message Failed Due to Message: 
+Processing row : 1538for +94788184510 Message Failed Due to Message: 
+Processing row : 1539for +94715109529 Message Failed Due to Message: 
+Processing row : 1540for +94766488352 Message Failed Due to Message: 
+Processing row : 1541for +94778806377 Message Failed Due to Message: 
+Processing row : 1542for +94717842518 Message Failed Due to Message: 
+Processing row : 1543for +94773112284 Message Failed Due to Message: 
+Processing row : 1544for +94754948630 Message Failed Due to Message: 
+Processing row : 1545for +94718540210 Message Failed Due to Message: 
+Processing row : 1546for +94754763088 Message Failed Due to Message: 
+Processing row : 1547for +94716324543 Message Failed Due to Message: 
+Processing row : 1548for +94713247055 Message Failed Due to Message: 
+Processing row : 1549for +94713247055 Message Failed Due to Message: 
+Processing row : 1550for +94777123456 Message Failed Due to Message: 
+Processing row : 1551for +94703358564 Message Failed Due to Message: 
+Processing row : 1552for +94https://www.linkedin.com/in/melani-silva-05370811a/ Message Failed Due to Message: 
+Processing row : 1553for +94771918923 Message Failed Due to Message: 
+Processing row : 1554for +94774844033 Message Failed Due to Message: 
+Processing row : 1555for +94114776148 Message Failed Due to Message: 
+Processing row : 1556for +94777449924 Message Failed Due to Message: 
+Processing row : 1557for +94705311747 Message Failed Due to Message: 
+Processing row : 1558for +94712299943 Message Failed Due to Message: 
+Processing row : 1559for +94775034709 Message Failed Due to Message: 
+Processing row : 1560for +94777478512 Message Failed Due to Message: 
+Processing row : 1561for +94713003961 Message Failed Due to Message: 
+Processing row : 1562for +94754646920 Message Failed Due to Message: 
+Processing row : 1563for +94716943534 Message Failed Due to Message: 
+Processing row : 1564for +94[] Message Failed Due to Message: 
+Processing row : 1565for +94717132029 Message Failed Due to Message: 
+Processing row : 1566for +94[] Message Failed Due to Message: 
+Processing row : 1567for +94783870095 Message Failed Due to Message: 
+Processing row : 1568for +94702296595 Message Failed Due to Message: 
+Processing row : 1569for +94764713621 Message Failed Due to Message: 
+Processing row : 1570for +94772941088 Message Failed Due to Message: 
+Processing row : 1571for +94717584838 Message Failed Due to Message: 
+Processing row : 1572for +94715132325 Message Failed Due to Message: 
+Processing row : 1573for +94776129525 Message Failed Due to Message: 
+Processing row : 1574for +94752215723 Message Failed Due to Message: 
+Processing row : 1575for +94777700065 Message Failed Due to Message: 
+Processing row : 1576for +94112886202 Message Failed Due to Message: 
+Processing row : 1577for +94718059382 Message Failed Due to Message: 
+Processing row : 1578for +94763339113 Message Failed Due to Message: 
+Processing row : 1579for +94714141083 Message Failed Due to Message: 
+Processing row : 1580for +94776852336 Message Failed Due to Message: 
+Processing row : 1581for +94[] Message Failed Due to Message: 
+Processing row : 1582for +94718102033 Message Failed Due to Message: 
+Processing row : 1583for +94771743905 Message Failed Due to Message: 
+Processing row : 1584for +94719160352 Message Failed Due to Message: 
+Processing row : 1585for +94http://www.bizendorse.com Message Failed Due to Message: 
+Processing row : 1586for +9494712754848 Message Failed Due to Message: 
+Processing row : 1587for +94777678185 Message Failed Due to Message: 
+Processing row : 1588for +94716999518 Message Failed Due to Message: 
+Processing row : 1589for +94764847700 Message Failed Due to Message: 
+Processing row : 1590for +94719328142 Message Failed Due to Message: 
+Processing row : 1591for +94715169979 Message Failed Due to Message: 
+Processing row : 1592for +94716822773 Message Failed Due to Message: 
+Processing row : 1593for +94713480120 Message Failed Due to Message: 
+Processing row : 1594for +94776417309 Message Failed Due to Message: 
+Processing row : 1595for +94712180028 Message Failed Due to Message: 
+Processing row : 1596for +94783736919 Message Failed Due to Message: 
+Processing row : 1597for +94715912861 Message Failed Due to Message: 
+Processing row : 1598for +94763862814 Message Failed Due to Message: 
+Processing row : 1599for +94713425892 Message Failed Due to Message: 
+Processing row : 1600for +94711967317 Message Failed Due to Message: 
+Processing row : 1601for +94772428256 Message Failed Due to Message: 
+Processing row : 1602for +94781323823 Message Failed Due to Message: 
+Processing row : 1603for +94778889990 Message Failed Due to Message: 
+Processing row : 1604for +94767244363 Message Failed Due to Message: 
+Processing row : 1605for +94779761111 Message Failed Due to Message: 
+Processing row : 1606for +94767462302 Message Failed Due to Message: 
+Processing row : 1607for +94764118084 Message Failed Due to Message: 
+Processing row : 1608for +94774468590 Message Failed Due to Message: 
+Processing row : 1609for +94712371358 Message Failed Due to Message: 
+Processing row : 1610for +94760517482 Message Failed Due to Message: 
+Processing row : 1611for +94786388282 Message Failed Due to Message: 
+Processing row : 1612for +94713257767 Message Failed Due to Message: 
+Processing row : 1613for +94http://www.chemistryclasses.net/ Message Failed Due to Message: 
+Processing row : 1614for +94372258721 Message Failed Due to Message: 
+Processing row : 1615for +94212214404 Message Failed Due to Message: 
+Processing row : 1616for +94704555621 Message Failed Due to Message: 
+Processing row : 1617for +94777736075 Message Failed Due to Message: 
+Processing row : 1618for +94778502215 Message Failed Due to Message: 
+Processing row : 1619for +94715408556 Message Failed Due to Message: 
+Processing row : 1620for +94718002355 Message Failed Due to Message: 
+Processing row : 1621for +94722480996 Message Failed Due to Message: 
+Processing row : 1622for +94776007979 Message Failed Due to Message: 
+Processing row : 1623for +94512244060 Message Failed Due to Message: 
+Processing row : 1624for +94769211990 Message Failed Due to Message: 
+Processing row : 1625for +94714673602 Message Failed Due to Message: 
+Processing row : 1626for +94703297484 Message Failed Due to Message: 
+Processing row : 1627for +94712652841 Message Failed Due to Message: 
+Processing row : 1628for +94778972584 Message Failed Due to Message: 
+Processing row : 1629for +94768892874 Message Failed Due to Message: 
+Processing row : 1630for +94718131667 Message Failed Due to Message: 
+Processing row : 1631for +94769822541 Message Failed Due to Message: 
+Processing row : 1632for +94719517470 Message Failed Due to Message: 
+Processing row : 1633for +94719723046 Message Failed Due to Message: 
+Processing row : 1634for +94776473993 Message Failed Due to Message: 
+Processing row : 1635for +94729654738 Message Failed Due to Message: 
+Processing row : 1636for +94761080163 Message Failed Due to Message: 
+Processing row : 1637for +94772431963 Message Failed Due to Message: 
+Processing row : 1638for +94758365602 Message Failed Due to Message: 
+Processing row : 1639for +94759503434 Message Failed Due to Message: 
+Processing row : 1640for +94https://www.linkedin.com/in/akeela-cader-4a666698/?trk=public-profile-join-page Message Failed Due to Message: 
+Processing row : 1641for +94774553571 Message Failed Due to Message: 
+Processing row : 1642for +94763184948 Message Failed Due to Message: 
+Processing row : 1643for +94778145219 Message Failed Due to Message: 
+Processing row : 1644for +94713884078 Message Failed Due to Message: 
+Processing row : 1645for +94779775634 Message Failed Due to Message: 
+Processing row : 1646for +94778335091 Message Failed Due to Message: 
+Processing row : 1647for +94772999833 Message Failed Due to Message: 
+Processing row : 1648for +94762030264 Message Failed Due to Message: 
+Processing row : 1649for +94716868870 Message Failed Due to Message: 
+Processing row : 1650for +94740746880 Message Failed Due to Message: 
+Processing row : 1651Processing row : 1652for +94753222107 Message Failed Due to Message: 
+Processing row : 1653Processing row : 1654Processing row : 1655for +94771442422 Message Failed Due to Message: 
+Processing row : 1656Processing row : 1657for +94714258158 Message Failed Due to Message: 
+Processing row : 1658Processing row : 1659for +94717193737 Message Failed Due to Message: 
+Processing row : 1660Processing row : 1661Processing row : 1662for +94778831732 Message Failed Due to Message: 
+Processing row : 1663for +94718042463 Message Failed Due to Message: 
+Processing row : 1664for +94112517620 Message Failed Due to Message: 
+Processing row : 1665Processing row : 1666for +94710455505 Message Failed Due to Message: 
+Processing row : 1667for +94710558375 Message Failed Due to Message: 
+Processing row : 1668for +94712531073 Message Failed Due to Message: 
+Processing row : 1669Processing row : 1670for +94716135977 Message Failed Due to Message: 
+Processing row : 1671for +94717269119 Message Failed Due to Message: 
+Processing row : 1672Processing row : 1673Processing row : 1674for +94788372153 Message Failed Due to Message: 
+Processing row : 1675for +94711907675 Message Failed Due to Message: 
+Processing row : 1676for +94756623277 Message Failed Due to Message: 
+Processing row : 1677for +94777998478 Message Failed Due to Message: 
+Processing row : 1678Processing row : 1679for +94425837057 Message Failed Due to Message: 
+Processing row : 1680Processing row : 1681for +94712014271 Message Failed Due to Message: 
+Processing row : 1682for +94758187553 Message Failed Due to Message: 
+Processing row : 1683Processing row : 1684for +94702471503 Message Failed Due to Message: 
+Processing row : 1685for +94775445635 Message Failed Due to Message: 
+Processing row : 1686for +94776352839 Message Failed Due to Message: 
+Processing row : 1687for +94715812247 Message Failed Due to Message: 
+Processing row : 1688for +94http://www.aathilks.blogspot.com Message Failed Due to Message: 
+Processing row : 1689Processing row : 1690for +94714460762 Message Failed Due to Message: 
+Processing row : 1691for +94775999766 Message Failed Due to Message: 
+Processing row : 1692Processing row : 1693Processing row : 1694Processing row : 1695Processing row : 1696Processing row : 1697for +94755439033 Message Failed Due to Message: 
+Processing row : 1698Processing row : 1699for +94762980540 Message Failed Due to Message: 
+Processing row : 1700for +94https://www.youtube.com/Lochana-E Message Failed Due to Message: 
+Processing row : 1701Processing row : 1702Processing row : 1703Processing row : 1704for +94772816516 Message Failed Due to Message: 
+Processing row : 1705for +94777146153 Message Failed Due to Message: 
+Processing row : 1706for +94https://www.facebook.com/instituteofchildhoodeducation/ Message Failed Due to Message: 
+Processing row : 1707for +94719422213 Message Failed Due to Message: 
+Processing row : 1708Processing row : 1709for +94777267805 Message Failed Due to Message: 
+Processing row : 1710for +94719198972 Message Failed Due to Message: 
+Processing row : 1711for +94717500884 Message Failed Due to Message: 
+Processing row : 1712Processing row : 1713Processing row : 1714for +94750195677 Message Failed Due to Message: 
+Processing row : 1715Processing row : 1716Processing row : 1717Processing row : 1718for +94711230900 Message Failed Due to Message: 
+Processing row : 1719Processing row : 1720Processing row : 1721for +94https://www.linkedin.com/in/sayyaf-ahamed-48b93679/ Message Failed Due to Message: 
+Processing row : 1722for +94716839441 Message Failed Due to Message: 
+Processing row : 1723Processing row : 1724for +94711842429 Message Failed Due to Message: 
+Processing row : 1725for +94711038837 Message Failed Due to Message: 
+Processing row : 1726for +94771190850 Message Failed Due to Message: 
+Processing row : 1727for +94782528077 Message Failed Due to Message: 
+Processing row : 1728for +94782423107 Message Failed Due to Message: 
+Processing row : 1729for +94713914258 Message Failed Due to Message: 
+Processing row : 1730for +94717674575 Message Failed Due to Message: 
+Processing row : 1731for +94710982325 Message Failed Due to Message: 
+Processing row : 1732for +94771851408 Message Failed Due to Message: 
+Processing row : 1733for +94783385258 Message Failed Due to Message: 
+Processing row : 1734for +94723279574 Message Failed Due to Message: 
+Processing row : 1735for +94712184122 Message Failed Due to Message: 
+Processing row : 1736for +94716113826 Message Failed Due to Message: 
+Processing row : 1737for +94773065979 Message Failed Due to Message: 
+Processing row : 1738for +94773023115 Message Failed Due to Message: 
+Processing row : 1739for +94718886575 Message Failed Due to Message: 
+Processing row : 1740for +94759550562 Message Failed Due to Message: 
+Processing row : 1741for +94710570812 Message Failed Due to Message: 
+Processing row : 1742for +94778672654 Message Failed Due to Message: 
+Processing row : 1743for +94711708374 Message Failed Due to Message: 
+Processing row : 1744for +94718174721 Message Failed Due to Message: 
+Processing row : 1745for +94701685836 Message Failed Due to Message: 
+Processing row : 1746for +94775375824 Message Failed Due to Message: 
+Processing row : 1747for +94770556610 Message Failed Due to Message: 
+Processing row : 1748for +94777259966 Message Failed Due to Message: 
+Processing row : 1749for +94725382567 Message Failed Due to Message: 
+Processing row : 1750for +94777275694 Message Failed Due to Message: 
+Processing row : 1751for +94718644612 Message Failed Due to Message: 
+Processing row : 1752for +94717495074 Message Failed Due to Message: 
+Processing row : 1753for +94715874355 Message Failed Due to Message: 
+Processing row : 1754for +94713462262 Message Failed Due to Message: 
+Processing row : 1755for +94711894968 Message Failed Due to Message: 
+Processing row : 1756for +94776276718 Message Failed Due to Message: 
+Processing row : 1757for +94717578623 Message Failed Due to Message: 
+Processing row : 1758for +94713114416 Message Failed Due to Message: 
+Processing row : 1759for +94772433400 Message Failed Due to Message: 
+Processing row : 1760for +94756126185 Message Failed Due to Message: 
+Processing row : 1761for +94761754104 Message Failed Due to Message: 
+Processing row : 1762for +94715300500 Message Failed Due to Message: 
+Processing row : 1763for +94711307503 Message Failed Due to Message: 
+Processing row : 1764for +94719868728 Message Failed Due to Message: 
+Processing row : 1765for +94717450893 Message Failed Due to Message: 
+Processing row : 1766for +94https://www.facebook.com/Updated-Economics-150294649004017/?ref=bookmarks Message Failed Due to Message: 
+Processing row : 1767for +94766864254 Message Failed Due to Message: 
+Processing row : 1768for +94773789798 Message Failed Due to Message: 
+Processing row : 1769for +94716384610 Message Failed Due to Message: 
+Processing row : 1770for +94779742741 Message Failed Due to Message: 
+Processing row : 1771for +94775243991 Message Failed Due to Message: 
+Processing row : 1772for +94712715419 Message Failed Due to Message: 
+Processing row : 1773for +94768690930 Message Failed Due to Message: 
+Processing row : 1774for +94112817681 Message Failed Due to Message: 
+Processing row : 1775for +94715726051 Message Failed Due to Message: 
+Processing row : 1776for +94710167273 Message Failed Due to Message: 
+Processing row : 1777for +94777987317 Message Failed Due to Message: 
+Processing row : 1778for +94718186706 Message Failed Due to Message: 
+Processing row : 1779for +94762172777 Message Failed Due to Message: 
+Processing row : 1780for +94777623119 Message Failed Due to Message: 
+Processing row : 1781for +94775345323 Message Failed Due to Message: 
+Processing row : 1782for +94717977315 Message Failed Due to Message: 
+Processing row : 1783for +94711725058 Message Failed Due to Message: 
+Processing row : 1784for +94713283652 Message Failed Due to Message: 
+Processing row : 1785for +94713248854 Message Failed Due to Message: 
+Processing row : 1786for +94773670543 Message Failed Due to Message: 
+Processing row : 1787for +94http://www.sarhoon.com/ Message Failed Due to Message: 
+Processing row : 1788for +94https://www.facebook.com/Mathematics-made-easy-303342513809324/ Message Failed Due to Message: 
+Processing row : 1789for +94722165424 Message Failed Due to Message: 
+Processing row : 1790for +94783856722 Message Failed Due to Message: 
+Processing row : 1791for +94[] Message Failed Due to Message: 
+Processing row : 1792for +94777601999 Message Failed Due to Message: 
+Processing row : 1793for +94710765554 Message Failed Due to Message: 
+Processing row : 1794for +94772995235 Message Failed Due to Message: 
+Processing row : 1795for +94755562382 Message Failed Due to Message: 
+Processing row : 1796for +94762648888 Message Failed Due to Message: 
+Processing row : 1797for +94784959049 Message Failed Due to Message: 
+Processing row : 1798for +94712994943 Message Failed Due to Message: 
+Processing row : 1799Processing row : 1800for +94779170297 Message Failed Due to Message: 
+Processing row : 1801for +94http://www.codezeilan.com Message Failed Due to Message: 
+Processing row : 1802for +94768675733 Message Failed Due to Message: 
+Processing row : 1803for +94777721650 Message Failed Due to Message: 
+Processing row : 1804for +94775890007 Message Failed Due to Message: 
+Processing row : 1805for +94773638153 Message Failed Due to Message: 
+Processing row : 1806for +94775564255 Message Failed Due to Message: 
+Processing row : 1807Processing row : 1808Processing row : 1809Processing row : 1810
